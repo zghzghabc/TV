@@ -20,4 +20,36 @@ CCTV-17,http://kingtom-tech.com:9901/tsfile/live/1036_1.m3u8
 CCTV4欧洲,http://goo.bkpcp.top/mg/cctv4o
 CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
 
+🇨🇳卫视,#genre#
+湖南卫视,http://kingtom-tech.com:9901/tsfile/live/1047_1.m3u8
+浙江卫视,http://kingtom-tech.com:9901/tsfile/live/1048_1.m3u8
+江苏卫视,http://kingtom-tech.com:9901/tsfile/live/1049_1.m3u8
+东方卫视,http://kingtom-tech.com:9901/tsfile/live/1050_1.m3u8
+黑龙江卫视,http://kingtom-tech.com:9901/tsfile/live/1054_1.m3u8
+北京卫视,http://kingtom-tech.com:9901/tsfile/live/1055_1.m3u8
+天津卫视,http://kingtom-tech.com:9901/tsfile/live/1056_1.m3u8
+山东卫视,http://kingtom-tech.com:9901/tsfile/live/1057_1.m3u8
+江西卫视,http://kingtom-tech.com:9901/tsfile/live/1058_1.m3u8
+深圳卫视,http://kingtom-tech.com:9901/tsfile/live/1059_1.m3u8
+湖北卫视,http://kingtom-tech.com:9901/tsfile/live/1060_1.m3u8
+辽宁卫视,http://kingtom-tech.com:9901/tsfile/live/1061_1.m3u8
+贵州卫视,http://kingtom-tech.com:9901/tsfile/live/1062_1.m3u8
+四川卫视,http://kingtom-tech.com:9901/tsfile/live/1063_1.m3u8
+安徽卫视,http://kingtom-tech.com:9901/tsfile/live/1065_1.m3u8
+重庆卫视,http://kingtom-tech.com:9901/tsfile/live/1068_1.m3u8
+河北卫视,http://kingtom-tech.com:9901/tsfile/live/1069_1.m3u8
+东南卫视,http://kingtom-tech.com:9901/tsfile/live/1070_1.m3u8
+吉林卫视,http://kingtom-tech.com:9901/tsfile/live/1071_1.m3u8
+广西卫视,http://kingtom-tech.com:9901/tsfile/live/1072_1.m3u8
+电视指南,http://kingtom-tech.com:9901/tsfile/live/1074_1.m3u8
+河南卫视,http://kingtom-tech.com:9901/tsfile/live/1085_1.m3u8
+梅州导视,http://kingtom-tech.com:9901/tsfile/live/1086_1.m3u8
+陕西卫视,http://kingtom-tech.com:9901/tsfile/live/1087_1.m3u8
+山西卫视,http://kingtom-tech.com:9901/tsfile/live/1088_1.m3u8
+导视高清,http://kingtom-tech.com:9901/tsfile/live/1089_1.m3u8
+青海卫视,http://kingtom-tech.com:9901/tsfile/live/1090_1.m3u8
+纪实科教,http://kingtom-tech.com:9901/tsfile/live/1092_1.m3u8
+宁夏卫视,http://kingtom-tech.com:9901/tsfile/live/1093_1.m3u8
+西藏卫视,http://kingtom-tech.com:9901/tsfile/live/1094_1.m3u8
+甘肃卫视,http://kingtom-tech.com:9901/tsfile/live/1096_1.m3u8
 
