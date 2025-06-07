@@ -23,6 +23,13 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1749290412&sign=4ae805c998af36193dedf30f61f61937#http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1749290411&sign=10b4447ce931ace322fb372363280e05
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1749290410&sign=90eb18c3bb5d0283f0dc93c953d3c940
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1749290411&sign=a34c2370e62320b88727914525a4d488
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1749290409&sign=053b35819da7c223967d4e142a5f0687
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1749290411&sign=8efa5a1a60d97ce2d71495b87bbd0686
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1749290410&sign=8f322efddaa2d22beac69d70e767e83e
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1749290412&sign=11b3fc9cb0f3a6dd926617b8eb89eef3
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
 四川卫视,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
