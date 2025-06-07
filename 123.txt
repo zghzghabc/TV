@@ -21,7 +21,7 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 🇨🇳卫视,#genre#
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1749290412&sign=4ae805c998af36193dedf30f61f61937#http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
