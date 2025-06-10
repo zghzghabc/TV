@@ -49,12 +49,16 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西南卫视
+西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
+兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
+康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
+安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 
 🇨🇳其它
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
