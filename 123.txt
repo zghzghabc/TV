@@ -68,11 +68,11 @@ CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 
 🇭🇰港台,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-翡翠台,http://mytv.101.qzz.io/hls/fct/playlist.m3u8
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct#http://mytv.101.qzz.io/hls/fct/playlist.m3u8
+无线新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
