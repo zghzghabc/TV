@@ -84,9 +84,9 @@ CHC家庭影院,http://cdn.jdshipin.com/jisu.php?id=chcjtyy
 超级电影,http://111.43.126.240:9003/hls/85/index.m3u8
 爱情喜剧,http://111.43.126.240:9003/hls/76/index.m3u8
 超级电视剧,http://111.43.126.240:9003/hls/84/index.m3u8
-
-
-
+求索地理,http://ygbh.site/php/bfgd.php?id=286
+求索动物,http://ygbh.site/php/bfgd.php?id=287
+求索生活,http://ygbh.site/php/bfgd.php?id=288
 
 🇭🇰港台,#genre#
 凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
