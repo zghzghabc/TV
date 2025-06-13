@@ -17,6 +17,8 @@ CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
 CCTV-15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+CETV1,http://ygbh.site/php/bfgd.php?id=135
+CETV2,http://ygbh.site/php/bfgd.php?id=492
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
