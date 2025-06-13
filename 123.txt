@@ -17,6 +17,8 @@ CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
 CCTV-15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+CCTV4欧洲,http://www.douzhicloud.site:35455/mgtv/608807419.m3u8
+CCTV4美洲,http://www.douzhicloud.site:35455/mgtv/608807416.m3u8
 CETV1,http://ygbh.site/php/bfgd.php?id=135
 CETV2,http://ygbh.site/php/bfgd.php?id=492
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
@@ -24,6 +26,11 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
+🇨🇳央卫,#genre#
+第一剧场,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
+风云剧场,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
+怀旧剧场,http://www.douzhicloud.site:35455/nptv/hjjc.m3u8
 
 🇨🇳卫视,#genre#
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
@@ -60,6 +67,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
+大湾区卫视,http://www.douzhicloud.site:35455/mgtv/608917627.m3u8
 
 🇨🇳其它,#genre#
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
