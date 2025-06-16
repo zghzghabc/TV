@@ -264,6 +264,23 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 雪豹,http://cfss.cc/cdn/hy/29580970.m3u8
 
+🇨🇳咪咕视频,#genre#
+咪咕视频1,http://1.wcnm.qzz.io:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕视频2,http://1.wcnm.qzz.io:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕视频3,http://1.wcnm.qzz.io:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+咪咕视频4,http://1.wcnm.qzz.io:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+咪咕视频5,http://1.wcnm.qzz.io:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+咪咕视频6,http://1.wcnm.qzz.io:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+咪咕视频7,http://1.wcnm.qzz.io:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+咪咕视频8,http://1.wcnm.qzz.io:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕视频9,http://1.wcnm.qzz.io:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+咪咕视频10,http://1.wcnm.qzz.io:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+咪咕视频11,http://1.wcnm.qzz.io:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+咪咕视频12,http://1.wcnm.qzz.io:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+咪咕视频13,http://1.wcnm.qzz.io:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+咪咕视频14,http://1.wcnm.qzz.io:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕视频15,http://1.wcnm.qzz.io:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+
 🇭🇰测试,#genre#
 凤凰中文,http://103.82.54.40/proxy/cibn/qq群850045467.php?id=2
 凤凰资讯,http://103.82.54.40/proxy/cibn/qq群850045467.php?id=3
