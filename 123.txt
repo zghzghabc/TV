@@ -17,10 +17,11 @@ CCTV-14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14#http://qwt.zhibotv.top:20
 CCTV-15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
-CCTV4欧洲,http://www.douzhicloud.site:35455/mgtv/608807419.m3u8
-CCTV4美洲,http://www.douzhicloud.site:35455/mgtv/608807416.m3u8
-CETV1,http://ygbh.site/php/bfgd.php?id=135
-CETV2,http://ygbh.site/php/bfgd.php?id=492
+CCTV欧洲,http://1.wcnm.qzz.io:35455/mgtv/608807419.m3u8
+CCTV美洲,http://1.wcnm.qzz.io:35455/mgtv/608807416.m3u8
+CETV1,http://1.wcnm.qzz.io:35455/mgtv/923287154.m3u8
+CETV2,http://1.wcnm.qzz.io:35455/mgtv/923287211.m3u8
+CETV4,http://1.wcnm.qzz.io:35455/mgtv/923287339.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -28,13 +29,14 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 🇨🇳央卫,#genre#
-第一剧场,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
-风云剧场,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
-怀旧剧场,http://www.douzhicloud.site:35455/nptv/hjjc.m3u8
+第一剧场,http://1.wcnm.qzz.io:35455/nptv/dyjc.m3u8
+风云剧场,http://1.wcnm.qzz.io:35455/nptv/fyjc.m3u8
+怀旧剧场,http://1.wcnm.qzz.io:35455/nptv/hjjc.m3u8
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 🇨🇳卫视,#genre#
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+云南卫视,http://1.wcnm.qzz.io:35455/nptv/yunnan.m3u8#http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
@@ -58,24 +60,21 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
+西藏卫视,http://1.wcnm.qzz.io:35455/nptv/xizang.m3u8#http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
-兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
+兵团卫视,兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 大湾区卫视,http://www.douzhicloud.site:35455/mgtv/608917627.m3u8
 
 🇨🇳其它,#genre#
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC动作电影,http://cdn.jdshipin.com/jisu.php?id=chcdzdy
-CHC影迷电影,http://cdn.jdshipin.com/jisu.php?id=chcymdy
-CHC家庭影院,http://cdn.jdshipin.com/jisu.php?id=chcjtyy
+CHC家庭影院,http://1.wcnm.qzz.io:35455/mgtv/644368373.m3u8
+CHC动作电影,http://1.wcnm.qzz.io:35455/mgtv/644368714.m3u8
+CHC影迷电影,http://1.wcnm.qzz.io:35455/mgtv/952383261.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
