@@ -17,6 +17,8 @@ CCTV-14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14#http://qwt.zhibotv.top:20
 CCTV-15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+CCTV4K,http://1.wcnm.qzz.io:35455/nptv/cctv4k.m3u8
+CCTV8K,http://1.wcnm.qzz.io:35455/nptv/cctv8k.m3u8
 CCTV欧洲,http://1.wcnm.qzz.io:35455/mgtv/608807419.m3u8
 CCTV美洲,http://1.wcnm.qzz.io:35455/mgtv/608807416.m3u8
 CETV1,http://1.wcnm.qzz.io:35455/mgtv/923287154.m3u8
