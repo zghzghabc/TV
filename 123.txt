@@ -24,17 +24,21 @@ CCTV美洲,http://1.wcnm.qzz.io:35455/mgtv/608807416.m3u8
 CETV1,http://1.wcnm.qzz.io:35455/mgtv/923287154.m3u8
 CETV2,http://1.wcnm.qzz.io:35455/mgtv/923287211.m3u8
 CETV4,http://1.wcnm.qzz.io:35455/mgtv/923287339.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CCTV记录,http://1.wcnm.qzz.io:35455/mgtv/609006487.m3u8
+CCTV英语,http://1.wcnm.qzz.io:35455/mgtv/609017205.m3u8
+CCTV阿语,http://1.wcnm.qzz.io:35455/mgtv/609154345.m3u8
+CCTV西语,http://1.wcnm.qzz.io:35455/mgtv/609006450.m3u8
+CCTV法语,http://1.wcnm.qzz.io:35455/mgtv/609006476.m3u8
+CCTV俄语,http://1.wcnm.qzz.io:35455/mgtv/609006446.m3u8
 
 🇨🇳央卫,#genre#
 第一剧场,http://1.wcnm.qzz.io:35455/nptv/dyjc.m3u8
 风云剧场,http://1.wcnm.qzz.io:35455/nptv/fyjc.m3u8
 怀旧剧场,http://1.wcnm.qzz.io:35455/nptv/hjjc.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+老故事,http://1.wcnm.qzz.io:35455/mgtv/884121956.m3u8
+发现之旅,http://1.wcnm.qzz.io:35455/mgtv/624878970.m3u8
+中学生,http://1.wcnm.qzz.io:35455/mgtv/708869532.m3u8
 
 🇨🇳卫视,#genre#
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
@@ -68,10 +72,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
-兵团卫视,兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
-大湾区卫视,http://www.douzhicloud.site:35455/mgtv/608917627.m3u8
+大湾区卫视,http://1.wcnm.qzz.io:35455/mgtv/608917627.m3u8#http://www.douzhicloud.site:35455/mgtv/608917627.m3u8
 
 🇨🇳其它,#genre#
 CHC家庭影院,http://1.wcnm.qzz.io:35455/mgtv/644368373.m3u8
