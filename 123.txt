@@ -81,43 +81,17 @@ CCTV俄语,http://1.wcnm.qzz.io:35455/mgtv/609006446.m3u8
 CHC家庭影院,http://1.wcnm.qzz.io:35455/mgtv/644368373.m3u8
 CHC动作电影,http://1.wcnm.qzz.io:35455/mgtv/644368714.m3u8
 CHC影迷电影,http://1.wcnm.qzz.io:35455/mgtv/952383261.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-未知卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-惊悚悬疑 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-泰剧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-精品记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-哒哒赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-潮妈辣婆 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-动作电影卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+
 
 
 🇭🇰港台,#genre#
-凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct#http://mytv.101.qzz.io/hls/fct/playlist.m3u8
-无线新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx#http://cdn.jdshipin.com/jisu.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰中文,http://bx.757888.xyz/api.php?id=fhzw#http://cdn.jdshipin.com/jisu.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰香港,http://bx.757888.xyz/api.php?id=fhhk#http://cdn.jdshipin.com/jisu.php?id=fhxg#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+翡翠台,http://bx.757888.xyz/api.php?id=fct#http://cdn.jdshipin.com/jisu.php?id=fct#http://mytv.101.qzz.io/hls/fct/playlist.m3u8
+明珠台,http://bx.757888.xyz/api.php?id=mz
+无线新闻,http://bx.757888.xyz/api.php?id=wxxw#http://cdn.jdshipin.com/jisu.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -126,7 +100,7 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影,http://bx.757888.xyz/api.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -139,7 +113,8 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
 CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+東森電影,http://bx.757888.xyz/api.php?id=dsdy
+龙华电影,http://bx.757888.xyz/api.php?id=lhdy#https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
@@ -150,10 +125,10 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
 TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+天映经典,http://bx.757888.xyz/api.php?id=tyjd#http://php.jdshipin.com/smt.php?id=Celestial2
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
@@ -164,8 +139,9 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+18台,http://bx.757888.xyz/api.php?id=18
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
