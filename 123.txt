@@ -61,63 +61,38 @@ CHC影迷电影,http://1.wcnm.qzz.io:35455/mgtv/952383261.m3u8
 
 
 🇭🇰港台,#genre#
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx#http://cdn.jdshipin.com/jisu.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw#http://cdn.jdshipin.com/jisu.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰香港,http://bx.757888.xyz/api.php?id=fhhk#http://cdn.jdshipin.com/jisu.php?id=fhxg#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-翡翠台,http://bx.757888.xyz/api.php?id=fct#http://cdn.jdshipin.com/jisu.php?id=fct#http://mytv.101.qzz.io/hls/fct/playlist.m3u8
-明珠台,http://bx.757888.xyz/api.php?id=mz
-无线新闻,http://bx.757888.xyz/api.php?id=wxxw#http://cdn.jdshipin.com/jisu.php?id=wxxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-美亚电影,http://bx.757888.xyz/api.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-東森電影,http://bx.757888.xyz/api.php?id=dsdy
-龙华电影,http://bx.757888.xyz/api.php?id=lhdy#https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
-TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://bx.757888.xyz/api.php?id=tyjd#http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-18台,http://bx.757888.xyz/api.php?id=18
-TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+凤凰中文台,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰资讯台,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰香港台,http://bxtv.3a.ink/api.php?id=fhhk
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+緯來體育,http://bxtv.3a.ink/api.php?id=wlty
+中天亞洲台,http://bxtv.3a.ink/api.php?id=ztyz
+台視,http://bxtv.3a.ink/api.php?id=taishi
+台視新聞台,http://bxtv.3a.ink/api.php?id=tsxw
+中視,http://bxtv.3a.ink/api.php?id=zhongshi
+中視新聞台,http://bxtv.3a.ink/api.php?id=zsxw
+民視,http://bxtv.3a.ink/api.php?id=minshi
+民視新聞台,http://bxtv.3a.ink/api.php?id=msxw
+民視台灣台,http://bxtv.3a.ink/api.php?id=mstw
+華視,http://bxtv.3a.ink/api.php?id=huashi
+八大第一,http://bxtv.3a.ink/api.php?id=bddy
+八大綜合,http://bxtv.3a.ink/api.php?id=bdzh
+HBO,http://bxtv.3a.ink/api.php?id=hbo
+寰宇新聞台,http://bxtv.3a.ink/api.php?id=hyxw
+緯來電影,http://bxtv.3a.ink/api.php?id=wldy
+東森電影,http://bxtv.3a.ink/api.php?id=dsdy
+東森幼幼,http://bxtv.3a.ink/api.php?id=dsyy
+台灣美亞電影,http://bxtv.3a.ink/api.php?id=twmeiya
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
