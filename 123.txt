@@ -18,15 +18,6 @@ CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-17,http://go.bkpcp.top/mg/cctv17
 
 
-🇨🇳央卫,#genre#
-第一剧场,http://1.wcnm.qzz.io:35455/nptv/dyjc.m3u8
-风云剧场,http://1.wcnm.qzz.io:35455/nptv/fyjc.m3u8
-怀旧剧场,http://1.wcnm.qzz.io:35455/nptv/hjjc.m3u8
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-老故事,http://1.wcnm.qzz.io:35455/mgtv/884121956.m3u8
-发现之旅,http://1.wcnm.qzz.io:35455/mgtv/624878970.m3u8
-中学生,http://1.wcnm.qzz.io:35455/mgtv/708869532.m3u8
-
 🇨🇳卫视,#genre#
 云南卫视,http://go.bkpcp.top/mg/ynws
 江苏卫视,http://go.bkpcp.top/mg/jsws
@@ -59,6 +50,7 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 青海卫视,http://go.bkpcp.top/mg/qhws
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
+
 
 🇨🇳其它,#genre#
 CHC家庭影院,http://1.wcnm.qzz.io:35455/mgtv/644368373.m3u8
