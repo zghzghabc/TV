@@ -50,6 +50,7 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 青海卫视,http://go.bkpcp.top/mg/qhws
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
 
 
 🇨🇳其它,#genre#
