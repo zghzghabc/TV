@@ -51,6 +51,8 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
+广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
 
 
 🇨🇳其它,#genre#
