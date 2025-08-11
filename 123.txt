@@ -141,6 +141,7 @@ HBO,http://bxtv.3a.ink/api.php?id=hbo
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 
+
 🇨🇳电影轮播,#genre#
 成龙,http://cfss.cc/cdn/hy/11342386.m3u8
 黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
