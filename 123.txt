@@ -65,11 +65,9 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 
 
 🇨🇳其它,#genre#
-CHC家庭影院,http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv
-CHC动作电影,http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv
-CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-爆谷台,http://play-ali.cloudvdn.com/live/5566321.flv
-星影台,http://play-ali.cloudvdn.com/live/5566334.flv
+CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
+CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
+CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 
 
 
