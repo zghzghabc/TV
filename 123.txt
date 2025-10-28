@@ -72,39 +72,10 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 
 
 🇭🇰港台,#genre#
-凤凰中文台,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯台,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港台,http://bxtv.3a.ink/api.php?id=fhhk
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-台視新聞台,http://bxtv.3a.ink/api.php?id=tsxw
-中視新聞台,http://bxtv.3a.ink/api.php?id=zsxw
-民視新聞台,http://bxtv.3a.ink/api.php?id=msxw
-寰宇新聞台,http://bxtv.3a.ink/api.php?id=hyxw
-东森新聞台,http://bxtv.3a.ink/api.php?id=dsxw
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-PopC,http://bxtv.3a.ink/api.php?id=popc
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-緯來體育,http://bxtv.3a.ink/api.php?id=wlty
-中天亞洲台,http://bxtv.3a.ink/api.php?id=ztyz
-台視,http://bxtv.3a.ink/api.php?id=taishi
-中視,http://bxtv.3a.ink/api.php?id=zhongshi
-民視,http://bxtv.3a.ink/api.php?id=minshi
-民視台灣台,http://bxtv.3a.ink/api.php?id=mstw
-華視,http://bxtv.3a.ink/api.php?id=huashi
-八大第一,http://bxtv.3a.ink/api.php?id=bddy
-八大綜合,http://bxtv.3a.ink/api.php?id=bdzh
-HBO,http://bxtv.3a.ink/api.php?id=hbo
-緯來電影,http://bxtv.3a.ink/api.php?id=wldy
-東森電影,http://bxtv.3a.ink/api.php?id=dsdy
-東森幼幼,http://bxtv.3a.ink/api.php?id=dsyy
-台灣美亞電影,http://bxtv.3a.ink/api.php?id=twmeiya
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
