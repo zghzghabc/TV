@@ -79,7 +79,7 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 明珠台,https://smt.858.qzz.io/Smart.php?id=pearl_twn
 TVBPLUS,https://smt.858.qzz.io/Smart.php?id=j2_twn
 
-🇹🇼台湾,#genre#
+🇨🇳台湾,#genre#
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
 台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
