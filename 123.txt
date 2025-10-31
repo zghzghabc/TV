@@ -75,7 +75,6 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 凤凰香港,https://smt.858.qzz.io/Smart.php?id=hkphoenix_twn
 无线新闻,https://smt.858.qzz.io/Smart.php?id=inews_twn
 翡翠台,https://smt.858.qzz.io/Smart.php?id=jade_twn
-翡翠台,https://smt.858.qzz.io/Smart.php?id=Jade_xue
 明珠台,https://smt.858.qzz.io/Smart.php?id=pearl_twn
 TVBPLUS,https://smt.858.qzz.io/Smart.php?id=j2_twn
 HOY TV,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
