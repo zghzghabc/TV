@@ -70,7 +70,7 @@ CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 
 
-🇭🇰港台,#genre#
+🇭🇰香港,#genre#
 凤凰资讯,https://smt.858.qzz.io/Smart.php?id=phoenixinfo_hd
 凤凰中文,https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
 凤凰香港,https://smt.858.qzz.io/Smart.php?id=hkphoenix_twn
@@ -79,6 +79,8 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 翡翠台,https://smt.858.qzz.io/Smart.php?id=Jade_xue
 明珠台,https://smt.858.qzz.io/Smart.php?id=pearl_twn
 TVBPLUS,https://smt.858.qzz.io/Smart.php?id=j2_twn
+
+🇭🇰台湾,#genre#
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
 台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
