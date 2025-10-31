@@ -100,6 +100,29 @@ TVBS 新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
 中视,https://smt.858.qzz.io/Smart.php?id=zhongshihd_twn
 华视,https://smt.858.qzz.io/Smart.php?id=ctshd_twn
 公视,https://smt.858.qzz.io/Smart.php?id=ctv_taiwan
+台视综合,https://smt.858.qzz.io/Smart.php?id=ttvzhonghe
+中视经典,https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
+东森超视,https://smt.858.qzz.io/Smart.php?id=ettvsuper
+TVBS HD,https://smt.858.qzz.io/Smart.php?id=tvbs
+中天综合,https://smt.858.qzz.io/Smart.php?id=ctizhonghe
+纬来体育,https://smt.858.qzz.io/Smart.php?id=videolandsport
+纬来精彩,https://smt.858.qzz.io/Smart.php?id=videolandspecial_twn
+纬来日本,https://smt.858.qzz.io/Smart.php?id=videolandjapan
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+纬来综合,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
+纬来育乐,https://smt.858.qzz.io/Smart.php?id=videolandyule
+龙华戏剧,https://smt.858.qzz.io/Smart.php?id=lunghuaxiju_twn
+龙华偶像,https://smt.858.qzz.io/Smart.php?id=lunghuaidol_twn
+龙华电影,https://smt.858.qzz.io/Smart.php?id=xingwei_movie
+龙华洋片,https://smt.858.qzz.io/Smart.php?id=lunghuawestern_twn
+龙华经典,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
+靖天国际,https://smt.858.qzz.io/Smart.php?id=jingtianintl_twn
+龙祥时代,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+美亚电影,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
+華藝綜合,https://smt.858.qzz.io/Smart.php?id=weishichinese_twn
+好萊塢電影,https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
+卫视电影,https://smt.858.qzz.io/Smart.php?id=weishimovie_twn
+
 
 
 🇨🇳春晚,#genre#
