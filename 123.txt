@@ -26,7 +26,6 @@ CGTN-阿语,http://go.bkpcp.top/mg/cgtna
 CGTN-法语,http://go.bkpcp.top/mg/cgtnf 
 CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 
-
 🇨🇳卫视,#genre#
 云南卫视,http://go.bkpcp.top/mg/ynws
 江苏卫视,http://go.bkpcp.top/mg/jsws
