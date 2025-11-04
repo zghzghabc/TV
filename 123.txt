@@ -59,8 +59,7 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
-广东珠江,https://cdn2.101.qzz.io/163189/gdzj
-广东体育,https://cdn2.101.qzz.io/163189/gdty
+
 
 
 🇨🇳其它,#genre#
