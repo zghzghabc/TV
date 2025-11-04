@@ -59,6 +59,12 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
+广东珠江,http://2099.tv12.xyz/26_1762225218838.m3u8
+广东体育,http://2099.tv12.xyz/27_1762225218838.m3u8
+五星体育,http://2099.tv12.xyz/28_1762225218838.m3u8
+劲爆体育,http://2099.tv12.xyz/29_1762225218838.m3u8
+魅力体育,http://2099.tv12.xyz/30_1762225218838.m3u8
+咪咕体育,http://2099.tv12.xyz/31_1762225218838.m3u8
 
 
 
