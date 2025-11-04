@@ -162,6 +162,7 @@ HOY TV,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 ViuTV,https://smt.858.qzz.io/Smart.php?id=viu1_twn
 ViuTV 6,https://smt.858.qzz.io/Smart.php?id=viusix_twn
 RTHK 31,https://smt.858.qzz.io/Smart.php?id=rhk31_twn
+RTHK 32,https://smt.858.qzz.io/Smart.php?id=rhk32_twn
 
 
 🇨🇳春晚,#genre#
