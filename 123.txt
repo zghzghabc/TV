@@ -59,39 +59,31 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 兵团卫视,http://go.bkpcp.top/mg/btws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
-广东珠江,http://2099.tv12.xyz/26_1762225218838.m3u8
-广东体育,http://2099.tv12.xyz/27_1762225218838.m3u8
-五星体育,http://2099.tv12.xyz/28_1762225218838.m3u8
-劲爆体育,http://2099.tv12.xyz/29_1762225218838.m3u8
-魅力体育,http://2099.tv12.xyz/30_1762225218838.m3u8
-咪咕体育,http://2099.tv12.xyz/31_1762225218838.m3u8
-
 
 
 🇨🇳其它,#genre#
 CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
 CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
-Now星影,http://104.250.141.226/live/lx84p2j5ch8ci98a/index.m3u8
-Now爆谷,http://104.250.141.226/live/1d8a863e4c56f888/index.m3u8
+
 
 🇭🇰香港,#genre#
-凤凰资讯,https://smt.858.qzz.io/Smart.php?id=phoenixinfo_hd
-凤凰中文,https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
-凤凰香港,https://smt.858.qzz.io/Smart.php?id=hkphoenix_twn
-无线新闻,https://smt.858.qzz.io/Smart.php?id=inews_twn
-翡翠台,https://smt.858.qzz.io/Smart.php?id=jade_twn
-明珠台,https://smt.858.qzz.io/Smart.php?id=pearl_twn
-TVBPLUS,https://smt.858.qzz.io/Smart.php?id=j2_twn
-HOY TV,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
-ViuTV,https://smt.858.qzz.io/Smart.php?id=viu1_twn
-ViuTV 6,https://smt.858.qzz.io/Smart.php?id=viusix_twn
-RTHK 31,https://smt.858.qzz.io/Smart.php?id=rhk31_twn
-RTHK 32,https://smt.858.qzz.io/Smart.php?id=rhk32_twn
+凤凰资讯,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=phoenixinfo_hd&token=jacktv
+凤凰中文,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=phoenixtv_hd&token=jacktv
+凤凰香港,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hkphoenix_twn&token=jacktv
+无线新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=inews_twn&token=jacktv
+翡翠台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=jade_twn&token=jacktv
+明珠台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=pearl_twn&token=jacktv
+TVBPLUS,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=j2_twn&token=jacktv
+HOY TV,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hoycaijing_twn&token=jacktv
+ViuTV,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=viu1_twn&token=jacktv
+ViuTV 6,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=viusix_twn&token=jacktv
+RTHK 31,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=rhk31_twn&token=jacktv
+RTHK 32,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=rhk32_twn&token=jacktv
 
 
 🇨🇳台湾,#genre#
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
+中天新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ctinews&token=jacktv
 中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
 台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
 中视新闻,https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
