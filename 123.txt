@@ -116,7 +116,6 @@ TVBS新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2al
 TVBS,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=tvbs&token=jacktv
 TVBS欢乐台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=tvbshuanle_twn&token=jacktv
 中天综合,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ctizhonghe&token=jacktv
-中天娱乐,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ctient&token=jacktv
 中天亚洲,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ctiasia_twn&token=jacktv
 八大第一台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badafirst&token=jacktv
 八大综合台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badazhonghe&token=jacktv
