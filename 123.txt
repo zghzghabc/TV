@@ -92,8 +92,8 @@ RTHK 32,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxr
 东森财经新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ettvcaijing_twn&token=jacktv
 寰宇新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=huanyuxinwen_twn&token=jacktv
 寰宇财经,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=huanyutaiwan_twn&token=jacktv
-非凡新闻,https://smt.858.qzz.io/Smart.php?id=feifannews_twn
-年代新闻,https://smt.858.qzz.io/Smart.php?id=niandainews_twn
+非凡新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=feifannews_twn&token=jacktv
+年代新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=niandainews_twn&token=jacktv
 TVBS新闻,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=tvbs_n&token=jacktv
 台视,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ttv_taiwan&token=jacktv
 民视,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ftvhd_taiwan&token=jacktv
@@ -121,48 +121,48 @@ TVBS欢乐台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc
 八大第一台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badafirst&token=jacktv
 八大综合台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badazhonghe&token=jacktv
 八大戏剧台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badadrama&token=jacktv
-八大娱乐台,https://smt.858.qzz.io/Smart.php?id=badaentertain
-纬来体育,https://smt.858.qzz.io/Smart.php?id=videolandsport
-纬来精彩,https://smt.858.qzz.io/Smart.php?id=videolandspecial_twn
-纬来日本,https://smt.858.qzz.io/Smart.php?id=videolandjapan
-纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
-纬来综合,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
-纬来育乐,https://smt.858.qzz.io/Smart.php?id=videolandyule
-爱尔达综合,https://smt.858.qzz.io/Smart.php?id=eltazonghe_twn
-爱尔达影剧,https://smt.858.qzz.io/Smart.php?id=eltayingju_twn
-爱尔达体育1,https://smt.858.qzz.io/Smart.php?id=eltasport_twn
-爱尔达体育2,https://smt.858.qzz.io/Smart.php?id=eltasport2_twn
-爱尔达体育3,https://smt.858.qzz.io/Smart.php?id=eltasport3_twn
-龙华戏剧,https://smt.858.qzz.io/Smart.php?id=lunghuaxiju_twn
-龙华偶像,https://smt.858.qzz.io/Smart.php?id=lunghuaidol_twn
-龙华电影,https://smt.858.qzz.io/Smart.php?id=xingwei_movie
-龙华洋片,https://smt.858.qzz.io/Smart.php?id=lunghuawestern_twn
-龙华经典,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
-靖天国际,https://smt.858.qzz.io/Smart.php?id=jingtianintl_twn
-靖天卡通,https://smt.858.qzz.io/Smart.php?id=jingtiancartoon_twn
-EYE 旅游,https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
-EYE 戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
-亚洲美食,https://smt.858.qzz.io/Smart.php?id=afc_twn
-美食星球,https://smt.858.qzz.io/Smart.php?id=foodplanet_twn
-TLC旅遊生活,https://smt.858.qzz.io/Smart.php?id=tlc_twn
-亚洲旅游,https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
-Arirang,https://smt.858.qzz.io/Smart.php?id=arirang_twn
-AXN Taiwan,https://smt.858.qzz.io/Smart.php?id=axn_twn
-MTV Live,https://smt.858.qzz.io/Smart.php?id=mtvhd_twn
-HBO_HD,https://smt.858.qzz.io/Smart.php?id=hbohd_twn
-HBO_HITS,https://smt.858.qzz.io/Smart.php?id=hbohit_twn
-CINEMAX,https://smt.858.qzz.io/Smart.php?id=cinemax_twn
-好萊塢電影,https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
-卫视电影,https://smt.858.qzz.io/Smart.php?id=weishimovie_twn
-龙祥时代,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
-美亚电影,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
-華藝綜合,https://smt.858.qzz.io/Smart.php?id=weishichinese_twn
-博斯运动一,https://smt.858.qzz.io/Smart.php?id=bosisport1_twn
-博斯运动二,https://smt.858.qzz.io/Smart.php?id=bosisport2_twn
-博斯高球一,https://smt.858.qzz.io/Smart.php?id=bosigolf1_twn
-博斯高球二,https://smt.858.qzz.io/Smart.php?id=bosigolf2_twn
-博斯网球,https://smt.858.qzz.io/Smart.php?id=bositennis_twn
-博斯无限,https://smt.858.qzz.io/Smart.php?id=bosiunlimited_twn
+八大娱乐台,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=badaentertain&token=jacktv
+纬来体育,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandsport&token=jacktv
+纬来精彩,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandspecial_twn&token=jacktv
+纬来日本,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandjapan&token=jacktv
+纬来电影,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandmovie&token=jacktv
+纬来综合,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandzonghe&token=jacktv
+纬来育乐,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=videolandyule&token=jacktv
+爱尔达综合,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eltazonghe_twn&token=jacktv
+爱尔达影剧,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eltayingju_twn&token=jacktv
+爱尔达体育1,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eltasport_twn&token=jacktv
+爱尔达体育2,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eltasport2_twn&token=jacktv
+爱尔达体育3,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eltasport3_twn&token=jacktv
+龙华戏剧,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=lunghuaxiju_twn&token=jacktv
+龙华偶像,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=lunghuaidol_twn&token=jacktv
+龙华电影,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=xingwei_movie&token=jacktv
+龙华洋片,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=lunghuawestern_twn&token=jacktv
+龙华经典,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=lunghuajingdian_twn&token=jacktv
+靖天国际,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=jingtianintl_twn&token=jacktv
+靖天卡通,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=jingtiancartoon_twn&token=jacktv
+EYE 旅游,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eyetvtravel_twn&token=jacktv
+EYE 戏剧,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=eyetvxiju_twn&token=jacktv
+亚洲美食,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=afc_twn&token=jacktv
+美食星球,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=foodplanet_twn&token=jacktv
+TLC旅遊生活,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=tlc_twn&token=jacktv
+亚洲旅游,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=asiatravel_twn&token=jacktv
+Arirang,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=arirang_twn&token=jacktv
+AXN Taiwan,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=axn_twn&token=jacktv
+MTV Live,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=mtvhd_twn&token=jacktv
+HBO_HD,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hbohd_twn&token=jacktv
+HBO_HITS,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hbohit_twn&token=jacktv
+CINEMAX,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=cinemax_twn&token=jacktv
+好萊塢電影,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hollywoodmovies_twn&token=jacktv
+卫视电影,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=weishimovie_twn&token=jacktv
+龙祥时代,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=lungxiangtime_twn&token=jacktv
+美亚电影,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=meiyamovie_twn&token=jacktv
+華藝綜合,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=weishichinese_twn&token=jacktv
+博斯运动一,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bosisport1_twn&token=jacktv
+博斯运动二,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bosisport2_twn&token=jacktv
+博斯高球一,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bosigolf1_twn&token=jacktv
+博斯高球二,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bosigolf2_twn&token=jacktv
+博斯网球,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bositennis_twn&token=jacktv
+博斯无限,https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=bosiunlimited_twn&token=jacktv
 
 
 🇨🇳春晚,#genre#
