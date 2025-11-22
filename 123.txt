@@ -69,8 +69,8 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 
 🇭🇰香港,#genre#
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 
