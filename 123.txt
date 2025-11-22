@@ -72,95 +72,15 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-POPC,http://bxtv.3a.ink/api.php?id=popc
+
 
 
 🇨🇳台湾,#genre#
-中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
-中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
-台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
-中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
-民视新闻,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
-东森新闻,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
-东森财经新闻,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
-寰宇新闻,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
-寰宇财经,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
-非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
-年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
-TVBS新闻,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
-台视,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
-民视,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
-中视,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
-华视,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
-公视,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
-台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
-中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
-公视台语,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
-民视台湾,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
-三立台湾,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
-三立都会,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
-三立综合,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
-三立戏剧,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
-东森综合,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
-东森戏剧,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
-东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
-东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
-东森幼幼,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
-东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
-TVBS,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
-TVBS欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
-中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
-中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
-八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
-八大综合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
-八大戏剧台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
-八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
-纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
-纬来精彩,https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
-纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
-纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
-纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
-纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
-爱尔达综合,https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
-爱尔达影剧,https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
-爱尔达体育1,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
-爱尔达体育2,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
-爱尔达体育3,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
-龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
-龙华偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
-龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
-龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
-龙华经典,https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
-靖天国际,https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
-靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
-EYE 旅游,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
-EYE 戏剧,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
-亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
-美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
-TLC旅遊生活,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
-亚洲旅游,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
-Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
-AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
-MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
-HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
-HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
-CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
-好萊塢電影,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
-卫视电影,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
-龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
-美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
-華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
-博斯运动一,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
-博斯运动二,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
-博斯高球一,https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
-博斯高球二,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
-博斯网球,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
-博斯无限,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
-
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+美亚电影,http://bxtv.3a.ink/api.php?id=meiya
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+POPC,http://bxtv.3a.ink/api.php?id=popc
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
