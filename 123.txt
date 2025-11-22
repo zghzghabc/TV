@@ -66,7 +66,6 @@ CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
 CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 
-
 🇭🇰香港,#genre#
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
@@ -74,99 +73,11 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 
-
 🇨🇳台湾,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 POPC,http://bxtv.3a.ink/api.php?id=popc
-台视 HD,https://tzh911.qzz.io/play-smt.php?id=ttv_taiwan
-台视新闻,https://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-台视综合,https://tzh911.qzz.io/play-smt.php?id=ttvzhonghe
-中视 HD,https://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
-中视新闻,https://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-中视经典,https://tzh911.qzz.io/play-smt.php?id=zhongshi_twn
-华视 HD,https://tzh911.qzz.io/play-smt.php?id=ctshd_twn
-公视 HD,https://tzh911.qzz.io/play-smt.php?id=ctv_taiwan
-公视台语台,https://tzh911.qzz.io/play-smt.php?id=ctv2_twn
-三立台湾台,https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-三立都会台,https://tzh911.qzz.io/play-smt.php?id=sanlidouhui
-三立综合台,https://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
-三立戏剧台,https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-东森新闻台,https://tzh911.qzz.io/play-smt.php?id=ettvnews
-东森财经新闻台,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-东森综合台,https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
-东森戏剧台,https://tzh911.qzz.io/play-smt.php?id=ettvdrama
-东森电影台,https://tzh911.qzz.io/play-smt.php?id=ettvmovie
-东森洋片台,https://tzh911.qzz.io/play-smt.php?id=ettvwestern
-东森幼幼台,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
-东森超视,https://tzh911.qzz.io/play-smt.php?id=ettvsuper
-TVBS HD,https://tzh911.qzz.io/play-smt.php?id=tvbs
-TVBS 新闻台,https://tzh911.qzz.io/play-smt.php?id=tvbs_n
-TVBS 欢乐台,https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
-民视 HD,https://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
-民视新闻台,https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-民视台湾台,https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
-中天综合,https://tzh911.qzz.io/play-smt.php?id=ctizhonghe
-中天娱乐,https://tzh911.qzz.io/play-smt.php?id=ctient
-中天亚洲,https://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
-中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
-寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-寰宇财经台,https://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
-八大第一台,https://tzh911.qzz.io/play-smt.php?id=badafirst
-八大综合台,https://tzh911.qzz.io/play-smt.php?id=badazhonghe
-八大戏剧台,https://tzh911.qzz.io/play-smt.php?id=badadrama
-八大娱乐台,https://tzh911.qzz.io/play-smt.php?id=badaentertain
-纬来体育,https://tzh911.qzz.io/play-smt.php?id=videolandsport
-纬来精彩,https://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
-纬来日本,https://tzh911.qzz.io/play-smt.php?id=videolandjapan
-纬来电影,https://tzh911.qzz.io/play-smt.php?id=videolandmovie
-纬来综合,https://tzh911.qzz.io/play-smt.php?id=videolandzonghe
-纬来育乐,https://tzh911.qzz.io/play-smt.php?id=videolandyule
-爱尔达综合台,https://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
-爱尔达影剧台,https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
-爱尔达体育1台,https://tzh911.qzz.io/play-smt.php?id=eltasport_twn
-爱尔达体育2台,https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-爱尔达体育3台,https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-爱尔达体育4台,https://tzh911.qzz.io/play-smt.php?id=eltasports4_twn
-小公视,https://tzh911.qzz.io/play-smt.php?id=pts3_twn
-非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
-年代新闻,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
-龙华戏剧,https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
-龙华偶像,https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
-龙华电影,https://tzh911.qzz.io/play-smt.php?id=xingwei_movie
-龙华洋片,https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
-龙华经典,https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-靖天国际,https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
-靖天卡通,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-大愛電視,https://tzh911.qzz.io/play-smt.php?id=daai_twn
-大愛二台,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
-EYE 旅游台,https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
-EYE 戏剧台,https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
-亚洲美食,https://tzh911.qzz.io/play-smt.php?id=afc_twn
-美食星球,https://tzh911.qzz.io/play-smt.php?id=foodplanet_twn
-TLC旅遊生活,https://tzh911.qzz.io/play-smt.php?id=tlc_twn
-亚洲旅游台,https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
-Arirang,https://tzh911.qzz.io/play-smt.php?id=arirang_twn
-AXN Taiwan,https://tzh911.qzz.io/play-smt.php?id=axn_twn
-MTV Live,https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
-HBO_HD,https://tzh911.qzz.io/play-smt.php?id=hbohd_twn
-HBO_HITS,https://tzh911.qzz.io/play-smt.php?id=hbohit_twn
-CINEMAX,https://tzh911.qzz.io/play-smt.php?id=cinemax_twn
-好萊塢電影台,https://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-卫视电影台,https://tzh911.qzz.io/play-smt.php?id=weishimovie_twn
-龙祥时代,https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
-美亚电影,https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
-華藝綜合,https://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
-博斯运动一台,https://tzh911.qzz.io/play-smt.php?id=bosisport1_twn
-博斯运动二台,https://tzh911.qzz.io/play-smt.php?id=bosisport2_twn
-博斯高球一台,https://tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
-博斯高球二台,https://tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
-博斯网球台,https://tzh911.qzz.io/play-smt.php?id=bositennis_twn
-博斯无限台,https://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
-好消息 2,https://tzh911.qzz.io/play-smt.php?id=good2_twn
-
-
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
