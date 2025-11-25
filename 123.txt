@@ -65,7 +65,7 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
 CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
-OW爆谷,http://bxtv.3a.ink/api.php?id=baogu
+NOW爆谷,http://bxtv.3a.ink/api.php?id=baogu
 NOW爆谷星影,http://bxtv.3a.ink/api.php?id=xingying
 
 🇭🇰香港,#genre#
@@ -74,6 +74,8 @@ NOW爆谷星影,http://bxtv.3a.ink/api.php?id=xingying
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
+千禧經典,http://bxtv.3a.ink/api.php?id=qxjd
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
 🇨🇳台湾,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
