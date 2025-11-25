@@ -69,18 +69,24 @@ NOW爆谷,http://bxtv.3a.ink/api.php?id=baogu
 NOW爆谷星影,http://bxtv.3a.ink/api.php?id=xingying
 
 🇭🇰香港,#genre#
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx#https://smart.946985.filegear-sg.me/smart.php?id=phoenixinfo_hd
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw#https://smart.946985.filegear-sg.me/smart.php?id=phoenixtv_hd
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk#https://smart.946985.filegear-sg.me/smart.php?id=hkphoenix_twn
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw#https://smart.946985.filegear-sg.me/smart.php?id=inews_twn
+翡翠台,http://bxtv.3a.ink/api.php?id=fct#https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue
+明珠台,https://smart.946985.filegear-sg.me/smart.php?id=pearl_twn
 千禧經典,http://bxtv.3a.ink/api.php?id=qxjd
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+ViuTV,https://smart.946985.filegear-sg.me/smart.php?id=viu1_twn
+ViuTV 6,https://smart.946985.filegear-sg.me/smart.php?id=viusix_twn
+RTHK 31,https://smart.946985.filegear-sg.me/smart.php?id=rhk31_twn
+RTHK 32,https://smart.946985.filegear-sg.me/smart.php?id=rhk32_twn
+HOY TV,https://smart.946985.filegear-sg.me/smart.php?id=hoycaijing_twn
 
 🇨🇳台湾,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp#https://smart.946985.filegear-sg.me/smart.php?id=j2_twn
 POPC,http://bxtv.3a.ink/api.php?id=popc
 
 🇨🇳春晚,#genre#
