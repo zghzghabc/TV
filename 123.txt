@@ -75,6 +75,8 @@ NOW星影,http://bxtv.3a.ink/api.php?id=xingying
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw#https://smart.946985.filegear-sg.me/smart.php?id=inews_twn
 翡翠台,http://bxtv.3a.ink/api.php?id=fct#https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue
 明珠台,https://smart.946985.filegear-sg.me/smart.php?id=pearl_twn
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp#https://smart.946985.filegear-sg.me/smart.php?id=j2_twn
+POPC,http://bxtv.3a.ink/api.php?id=popc
 千禧經典,http://bxtv.3a.ink/api.php?id=qxjd
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 ViuTV,https://smart.946985.filegear-sg.me/smart.php?id=viu1_twn
@@ -98,8 +100,6 @@ TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
 TVBS欢乐,https://smart.946985.filegear-sg.me/smart.php?id=tvbshuanle_twn
 中天娱乐,https://smart.946985.filegear-sg.me/smart.php?id=ctient
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya#https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp#https://smart.946985.filegear-sg.me/smart.php?id=j2_twn
-POPC,http://bxtv.3a.ink/api.php?id=popc
 台视,https://smart.946985.filegear-sg.me/smart.php?id=ttv_taiwan
 华视,https://smart.946985.filegear-sg.me/smart.php?id=ctshd_twn
 公视,https://smart.946985.filegear-sg.me/smart.php?id=ctv_taiwan
@@ -174,12 +174,10 @@ AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
 HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
 HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
 CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
 东森洋片,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
 龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
 龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
 龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
 天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
 天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
 天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
@@ -230,10 +228,8 @@ Baby TV Eng,https://smart.946985.filegear-sg.me/smart.php?id=Babytv
 CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
 Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
 Momo TV,https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
-Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
 Baby TV,https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
 MiaoMi,https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
-靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
 Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
 Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
 Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
