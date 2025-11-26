@@ -234,6 +234,20 @@ Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
 Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
 Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 
+🇸🇬新加坡,#genre#
+Channel 5,https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
+Channel 8,https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
+Suria,https://smart.946985.filegear-sg.me/smart.php?id=Suria
+Channel U,https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
+Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
+CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
+CNA backup,https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
+MeWatch Ch 5,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
+MeWatch Ch 8,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
+MeWatch Ch U,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
+MeWatch Suria,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
+MeWatch Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
+MeWatch CNA,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
