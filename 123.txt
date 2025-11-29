@@ -355,5 +355,15 @@ MeWatch CNA,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+极限,http://pull-skycorp.speedws.com:80/live/9ac6452e24881d3b96741c9a302e8985.flv
+happy,http://pull-skycorp.speedws.com:80/live/41ab27a712826dc8de23987f53719584.flv
+香蕉,http://pull-skycorp.speedws.com:80/live/a4420680103a9f86ae657fb6f68a4661.flv
+惊艳,http://pull-skycorp.speedws.com:80/live/eaf1322ee36cb991203133f99fc38e4f.flv
+潘多拉,http://pull-skycorp.speedws.com:80/live/6da2741154d38859ddf65e6ba813fb22.flv
+彩虹电影,http://pull-skycorp.speedws.com:80/live/8a6a89479a127c48a867df8c96d3b8ac.flv
+彩虹k,http://pull-skycorp.speedws.com:80/live/8ba92535b8667298c1ee50fc01ddb66f.flv
+彩虹e,http://pull-skycorp.speedws.com:80/live/9bb7f9c2e4f24d701c8a7d65efdb95b5.flv
+松视3,http://pull-skycorp.speedws.com:80/live/6308ac0e4f56e2e2f2535c068fed4724.flv
+松视1,http://pull-skycorp.speedws.com:80/live/e1fd1be8055e19e828fd643dfe32188c.flv
 
 
