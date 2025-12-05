@@ -238,6 +238,7 @@ Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
 Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 
 🇨🇳云南地方,#genre#
+云南卫视,http://lxj.i234.me:1672/yn.php?type=back&id=349
 云南少儿,http://lxj.i234.me:1672/yn.php?type=back&id=152
 云南康旅,http://lxj.i234.me:1672/yn.php?type=back&id=151
 澜湄国际,http://lxj.i234.me:1672/yn.php?type=live&id=156
