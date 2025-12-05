@@ -277,6 +277,16 @@ Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 红河,http://lxj.i234.me:1672/yn.php?type=live&id=556
 金平,http://lxj.i234.me:1672/yn.php?type=live&id=518
 绿春,http://lxj.i234.me:1672/yn.php?type=live&id=504
+玉溪新闻综合,http://lxj.i234.me:1672/yn.php?type=live&id=421
+玉溪社会与法,http://lxj.i234.me:1672/yn.php?type=live&id=420
+红塔区,http://lxj.i234.me:1672/yn.php?type=live&id=7201
+通海,http://lxj.i234.me:1672/yn.php?type=live&id=561
+江川,http://lxj.i234.me:1672/yn.php?type=live&id=596
+元江,http://lxj.i234.me:1672/yn.php?type=live&id=540
+峨山,http://lxj.i234.me:1672/yn.php?type=live&id=585
+易门,http://lxj.i234.me:1672/yn.php?type=live&id=590
+华宁,http://lxj.i234.me:1672/yn.php?type=live&id=576
+新平,http://lxj.i234.me:1672/yn.php?type=live&id=571
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
