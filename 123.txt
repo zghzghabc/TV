@@ -263,6 +263,20 @@ Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 南涧,http://lxj.i234.me:1672/yn.php?type=live&id=489
 漾濞,http://lxj.i234.me:1672/yn.php?type=live&id=6882
 巍山,http://lxj.i234.me:1672/yn.php?type=live&id=538
+红河州,http://lxj.i234.me:1672/yn.php?type=live&id=388
+建水,http://lxj.i234.me:1672/yn.php?type=live&id=491
+石屏,http://lxj.i234.me:1672/yn.php?type=live&id=499
+个旧,http://lxj.i234.me:1672/yn.php?type=live&id=458
+蒙自,http://lxj.i234.me:1672/yn.php?type=live&id=539
+开远,http://lxj.i234.me:1672/yn.php?type=live&id=459
+弥勒,http://lxj.i234.me:1672/yn.php?type=live&id=519
+元阳,http://lxj.i234.me:1672/yn.php?type=live&id=507
+屏边,http://lxj.i234.me:1672/yn.php?type=live&id=500
+泸西,http://lxj.i234.me:1672/yn.php?type=live&id=502
+河口,http://lxj.i234.me:1672/yn.php?type=live&id=597
+红河,http://lxj.i234.me:1672/yn.php?type=live&id=556
+金平,http://lxj.i234.me:1672/yn.php?type=live&id=518
+绿春,http://lxj.i234.me:1672/yn.php?type=live&id=504
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
