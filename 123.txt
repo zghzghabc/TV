@@ -287,6 +287,17 @@ Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 易门,http://lxj.i234.me:1672/yn.php?type=live&id=590
 华宁,http://lxj.i234.me:1672/yn.php?type=live&id=576
 新平,http://lxj.i234.me:1672/yn.php?type=live&id=571
+楚雄州,http://lxj.i234.me:1672/yn.php?type=live&id=259
+楚雄市,http://lxj.i234.me:1672/yn.php?type=live&id=390
+禄丰,http://lxj.i234.me:1672/yn.php?type=live&id=483
+元谋,http://lxj.i234.me:1672/yn.php?type=live&id=424
+南华,http://lxj.i234.me:1672/yn.php?type=live&id=517
+大姚,http://lxj.i234.me:1672/yn.php?type=live&id=358
+姚安,http://lxj.i234.me:1672/yn.php?type=live&id=521
+双柏,http://lxj.i234.me:1672/yn.php?type=live&id=359
+永仁,http://lxj.i234.me:1672/yn.php?type=live&id=442
+
+
 
 🇨🇳春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
