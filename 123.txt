@@ -238,13 +238,10 @@ Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
 Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 
 🇨🇳云南,#genre#
-云南卫视,http://lxj.i234.me:1672/yn.php?type=back&id=349
-云南少儿,http://lxj.i234.me:1672/yn.php?type=back&id=152
-云南康旅,http://lxj.i234.me:1672/yn.php?type=back&id=151
-澜湄国际,http://lxj.i234.me:1672/yn.php?type=live&id=156
-云南都市,http://lxj.i234.me:1672/yn.php?type=live&id=131
-云南娱乐,http://lxj.i234.me:1672/yn.php?type=back&id=132
-云南影视,http://lxj.i234.me:1672/yn.php?type=live&id=134
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8$官网线路 
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$官网线路
+云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8$官网线路
+云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8$官网线路
 昆明新闻综合,http://lxj.i234.me:1672/yn.php?type=back&id=136
 昆明经济生活,http://lxj.i234.me:1672/yn.php?type=back&id=137
 昆明科学教育,http://lxj.i234.me:1672/yn.php?type=back&id=255
