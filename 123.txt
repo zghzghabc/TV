@@ -83,8 +83,8 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 CHC影迷,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7
 CHC动作,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C
 CHC家庭,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD
-NOW爆谷,http://bxtv.3a.ink/api.php?id=baogu#https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
-NOW星影,http://bxtv.3a.ink/api.php?id=xingying#https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+Now星影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Q6zrzw&tk=aeFo3Lxm1DH1
+Now爆谷,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=g2wcbO&tk=aeFo3Lxm1DH1
 
 🇭🇰香港,#genre#
 凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=vHAnxC&tk=aeFo3Lxm1DH1
