@@ -90,10 +90,10 @@ Now爆谷,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=g2wcbO&tk=aeFo3Lxm1DH1
 凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=vHAnxC&tk=aeFo3Lxm1DH1
 凤凰中文,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nDgelN&tk=aeFo3Lxm1DH1
 凤凰香港,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TYHgWf&tk=aeFo3Lxm1DH1
+香港卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=bjMTM1&tk=aeFo3Lxm1DH1
 无线新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=czVFNg&tk=aeFo3Lxm1DH1
 翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=5ElbrC&tk=aeFo3Lxm1DH1
 TVB Plus,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=vJxWrh&tk=aeFo3Lxm1DH1
-無綫新聞台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=czVFNg&tk=aeFo3Lxm1DH1
 明珠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LamQdl&tk=aeFo3Lxm1DH1
 HOY 國際財經台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LglNvL&tk=aeFo3Lxm1DH1
 HOY TV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Dwr0QK&tk=aeFo3Lxm1DH1
@@ -110,156 +110,50 @@ NowSports,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=pViHfr&tk=aeFo3Lxm1DH1
 TVB功夫(国语),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=reWcVV&tk=aeFo3Lxm1DH1
 TVB星河(国语),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tCsKeh&tk=aeFo3Lxm1DH1
 TVB生活台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dOx5C4&tk=aeFo3Lxm1DH1
-
+TVB金曲,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=zgszcY&tk=aeFo3Lxm1DH1
+TVB奖门人,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6isLoI&tk=aeFo3Lxm1DH1
+黄金华剧台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rX3ho0&tk=aeFo3Lxm1DH1
+PopC电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=CvyOxm&tk=aeFo3Lxm1DH1
 
 🇨🇳台湾,#genre#
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw#https://smart.946985.filegear-sg.me/smart.php?id=ctinews
-台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
-中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
-民视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
-东森新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
-寰宇新闻,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
-非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
-年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
-TVBS新闻,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
-东森财经,https://smart.946985.filegear-sg.me/smart.php?id=ettvcaijing_twn
-寰宇财经,https://smart.946985.filegear-sg.me/smart.php?id=huanyutaiwan_twn
-TVBS欢乐,https://smart.946985.filegear-sg.me/smart.php?id=tvbshuanle_twn
-中天娱乐,https://smart.946985.filegear-sg.me/smart.php?id=ctient
-美亚电影,http://bxtv.3a.ink/api.php?id=meiya#https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-台视,https://smart.946985.filegear-sg.me/smart.php?id=ttv_taiwan
-华视,https://smart.946985.filegear-sg.me/smart.php?id=ctshd_twn
-公视,https://smart.946985.filegear-sg.me/smart.php?id=ctv_taiwan
-民视,https://smart.946985.filegear-sg.me/smart.php?id=ftvhd_taiwan
-中视,https://smart.946985.filegear-sg.me/smart.php?id=zhongshihd_twn
-台视综合,https://smart.946985.filegear-sg.me/smart.php?id=ttvzhonghe
-中视经典,https://smart.946985.filegear-sg.me/smart.php?id=zhongshi_twn
-公视台语,https://smart.946985.filegear-sg.me/smart.php?id=ctv2_twn
-三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
-三立都会,https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui
-三立综合,https://smart.946985.filegear-sg.me/smart.php?id=sanlizhonghe
-三立戏剧,https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
-东森综合,https://smart.946985.filegear-sg.me/smart.php?id=ettvzhonghe
-东森戏剧,https://smart.946985.filegear-sg.me/smart.php?id=ettvdrama
-东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
-东森洋片,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-东森幼幼,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
-东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
-TVBS,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
-民视台湾,https://smart.946985.filegear-sg.me/smart.php?id=ftvtaiwan_twn
-中天综合,https://smart.946985.filegear-sg.me/smart.php?id=ctizhonghe
-中天亚洲,https://smart.946985.filegear-sg.me/smart.php?id=ctiasia_twn
-八大第一台,https://smart.946985.filegear-sg.me/smart.php?id=badafirst
-八大综合台,https://smart.946985.filegear-sg.me/smart.php?id=badazhonghe
-八大戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=badadrama
-八大娱乐台,https://smart.946985.filegear-sg.me/smart.php?id=badaentertain
-纬来体育,https://smart.946985.filegear-sg.me/smart.php?id=videolandsport
-纬来精彩,https://smart.946985.filegear-sg.me/smart.php?id=videolandspecial_twn
-纬来日本,https://smart.946985.filegear-sg.me/smart.php?id=videolandjapan
-纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
-纬来综合,https://smart.946985.filegear-sg.me/smart.php?id=videolandzonghe
-纬来育乐,https://smart.946985.filegear-sg.me/smart.php?id=videolandyule
-爱尔达综合台,https://smart.946985.filegear-sg.me/smart.php?id=eltazonghe_twn
-爱尔达影剧台,https://smart.946985.filegear-sg.me/smart.php?id=eltayingju_twn
-爱尔达体育1台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport_twn
-爱尔达体育2台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-爱尔达体育3台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-爱尔达体育4台,https://smart.946985.filegear-sg.me/smart.php?id=eltasports4_twn
-龙华戏剧,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaxiju_twn
-龙华偶像,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaidol_twn
-龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-龙华经典,https://smart.946985.filegear-sg.me/smart.php?id=lunghuajingdian_twn
-靖天国际,https://smart.946985.filegear-sg.me/smart.php?id=jingtianintl_twn
-靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
-大愛電視,https://smart.946985.filegear-sg.me/smart.php?id=daai_twn
-大愛二台,https://smart.946985.filegear-sg.me/smart.php?id=daai2_twn
-EYE 旅游台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvtravel_twn
-EYE 戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvxiju_twn
-亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
-美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
-TLC旅遊生活,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
-亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Arirang,https://smart.946985.filegear-sg.me/smart.php?id=arirang_twn
-AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
-HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
-卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
-龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-華藝綜合,https://smart.946985.filegear-sg.me/smart.php?id=weishichinese_twn
-博斯运动一台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport1_twn
-博斯运动二台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport2_twn
-博斯高球一台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf1_twn
-博斯高球二台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf2_twn
-博斯网球台,https://smart.946985.filegear-sg.me/smart.php?id=bositennis_twn
-博斯无限台,https://smart.946985.filegear-sg.me/smart.php?id=bosiunlimited_twn
-好消息 2,https://smart.946985.filegear-sg.me/smart.php?id=good2_twn
-AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-东森洋片,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
-天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
-Movies Now HD,https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
-Star Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hits
-Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-HBO Signature,https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-HBO Family,https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-HBO Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-Cinemax,https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
-Dreamworks,https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
-SCM,https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-One,https://smart.946985.filegear-sg.me/smart.php?id=One
-tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
-Paramount Network,https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-Astrol Kplus,https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
-Natgeo_HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeohd_twn
-NatGeo_Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeowild_twn
-Animal_Planet,https://smart.946985.filegear-sg.me/smart.php?id=animalplanet_twn
-Discovery Asia,https://smart.946985.filegear-sg.me/smart.php?id=discoverytwn_twn
-CI,https://smart.946985.filegear-sg.me/smart.php?id=ci_twn
-Asia Travel,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Discovery HD,https://smart.946985.filegear-sg.me/smart.php?id=discoveryhd_twn
-亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
-美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
-亚洲TLC,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
-NatGeo HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeo
-Fashion TV,https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
-History,https://smart.946985.filegear-sg.me/smart.php?id=History
-BBC Earth HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://smart.946985.filegear-sg.me/smart.php?id=bbclifestyle_twn
-MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
-NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
-Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
-TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
-Foodnetwork Hd,https://smart.946985.filegear-sg.me/smart.php?id=Foodnetwork
-HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
-亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Baby TV Eng,https://smart.946985.filegear-sg.me/smart.php?id=Babytv
-CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
-Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
-Momo TV,https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
-Baby TV,https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
-MiaoMi,https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
-Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
-Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+中天新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=YZJFxl&tk=aeFo3Lxm1DH1
+中旺电视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=adMRcA&tk=aeFo3Lxm1DH1
+中视新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=p2JnGQ&tk=aeFo3Lxm1DH1
+寰宇新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=sfTXoA&tk=aeFo3Lxm1DH1
+中天新聞,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eGjVEd&tk=aeFo3Lxm1DH1
+TVBS,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Ibi8pz&tk=aeFo3Lxm1DH1
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=1qKJrJ&tk=aeFo3Lxm1DH1
+猪哥亮歌厅秀,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngntw0089.flv
+莲花卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=G1uAZB&tk=aeFo3Lxm1DH1
+环球电视台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=sNpxNZ&tk=aeFo3Lxm1DH1
+亚洲卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=D6Cxyk&tk=aeFo3Lxm1DH1
+亚太第一卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tK445d&tk=aeFo3Lxm1DH1
+华文卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=vxIart&tk=aeFo3Lxm1DH1
+1905电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=kjtIfO&tk=aeFo3Lxm1DH1
+1905环球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=P5zKwn&tk=aeFo3Lxm1DH1
+重温经典,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Qvp3xL&tk=aeFo3Lxm1DH1
+Y+剧场,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LPszy9&tk=aeFo3Lxm1DH1
+无线新闻台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=KymIaE&tk=aeFo3Lxm1DH1
+翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=4BLRg3&tk=aeFo3Lxm1DH1
+无线华丽台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=7PeD4x&tk=aeFo3Lxm1DH1
+明珠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=YRcsdB&tk=aeFo3Lxm1DH1
+星河,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dEE6fm&tk=aeFo3Lxm1DH1
+娱乐新闻台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dVYu3X&tk=aeFo3Lxm1DH1
+无线千禧台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=iILhAz&tk=aeFo3Lxm1DH1
+RTHK-31,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=evVRJg&tk=aeFo3Lxm1DH1
+RTHK-32,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Yw7zri&tk=aeFo3Lxm1DH1
+VIUTV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=sqjk0C&tk=aeFo3Lxm1DH1
+VIU6TV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=pWsh0E&tk=aeFo3Lxm1DH1
+美亚电影(香港),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=uZXj5h&tk=aeFo3Lxm1DH1
+美亚电影(台湾),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WYoOxp&tk=aeFo3Lxm1DH1
+天映频道,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TLuSR3&tk=aeFo3Lxm1DH1
+天映经典,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jf36W3&tk=aeFo3Lxm1DH1
+Astr爱奇艺,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=DajMog&tk=aeFo3Lxm1DH1
+AstrQJ,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=EJTQHk&tk=aeFo3Lxm1DH1
+Astr-AoD,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=E3UB1L&tk=aeFo3Lxm1DH1
+AeC,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=hrgjap&tk=aeFo3Lxm1DH1
+Astr,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=smKIzm&tk=aeFo3Lxm1DH1
+TVBPlus,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=5UZ0Ak&tk=aeFo3Lxm1DH1
 
 🇨🇳NewTV频道,#genre#
 中国功夫,https://iptv.catvod.com/live.php?id=NewTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB
