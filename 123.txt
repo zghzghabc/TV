@@ -397,15 +397,15 @@ Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
 
 
 🇯🇵成人频道_5201,#genre#
-极限,http://hls-pull-wicketpw.speedws.com:80/live/1a010e320f0d52d9d8d63dafe2cccca8.flv
-happy,http://hls-pull-wicketpw.speedws.com:80/live/df873f0fce048b82a454e1518921e495.flv
-香蕉,http://hls-pull-wicketpw.speedws.com:80/live/3f32b293fbce3aa795e42bbc79db5c3e.flv
-惊艳,http://hls-pull-wicketpw.speedws.com:80/live/eeba115982739ed8c7222c93d4bb458a.flv
-潘多拉,http://hls-pull-wicketpw.speedws.com:80/live/d29a2417fe4a4385b54c15d9f2e880ee.flv
-彩虹电影,http://hls-pull-wicketpw.speedws.com:80/live/efa666339f22394a43ddfabbab8cd724.flv
-彩虹k,http://hls-pull-wicketpw.speedws.com:80/live/43befa6d18272b03d48cec119a107a49.flv
-彩虹e,http://hls-pull-wicketpw.speedws.com:80/live/59f3c3c2c7251a2a6af807f6dc3423e6.flv
-松视1,http://hls-pull-wicketpw.speedws.com:80/live/0fde8e0de47a05674d061b42e7a8688c.flv
-松视3,http://hls-pull-wicketpw.speedws.com:80/live/5ea097478cf4bbae235c4be34ee8fd09.flv
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+菊花台,https://hyf000.eu.org/iptv/14
+Playboy,https://hyf000.eu.org/iptv/16
+Playboy Plus,https://hyf000.eu.org/iptv/102
+
 
 
