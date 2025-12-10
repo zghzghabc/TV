@@ -17,9 +17,8 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
-
-CCTV-4欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
-CCTV-4美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
+CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
+CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
 CETV1,http://go.bkpcp.top/mg/cetv1
 CETV2,http://go.bkpcp.top/mg/cetv2
 CETV4,http://go.bkpcp.top/mg/cetv4
