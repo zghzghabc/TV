@@ -30,14 +30,15 @@ CGTN-法语,http://go.bkpcp.top/mg/cgtnf
 CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 
 4K频道,#genre#
-深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K%E5%8F%B0
-北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E5%8F%B0
-东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K%E5%8F%B0
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0
-江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K%E5%8F%B0
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K%E5%8F%B0
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K%E5%8F%B0
-四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0
+深圳卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7382
+北京卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7321
+山东卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7466
+东方卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7464
+湖南卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7461
+江苏卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7462
+浙江卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7463
+广东卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7381
+四川卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7465
 
 🇨🇳卫视,#genre#
 云南卫视,http://go.bkpcp.top/mg/ynws
