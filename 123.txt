@@ -22,12 +22,12 @@ CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
 CETV1,http://go.bkpcp.top/mg/cetv1
 CETV2,http://go.bkpcp.top/mg/cetv2
 CETV4,http://go.bkpcp.top/mg/cetv4
-CGTN-英语,http://go.bkpcp.top/mg/cgtn
-CGTN-记录,https://0472.org/hls/cgtnd.m3u8
-CGTN-俄语,http://go.bkpcp.top/mg/cgtne 
-CGTN-阿语,http://go.bkpcp.top/mg/cgtna 
-CGTN-法语,http://go.bkpcp.top/mg/cgtnf 
-CGTN-西语,https://0472.org/hls/cgtnx.m3u8
+CGTN俄语,http://lxj.i234.me:1672/yn.php?type=back&id=606
+CGTN法语,http://lxj.i234.me:1672/yn.php?type=back&id=605
+CGTN纪录,http://lxj.i234.me:1672/yn.php?type=back&id=603
+CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
+CGTN西语,http://lxj.i234.me:1672/yn.php?type=back&id=602
+CGTN阿语,http://lxj.i234.me:1672/yn.php?type=back&id=604
 
 4K频道,#genre#
 深圳卫视,http://lxj.i234.me:1672/yn.php?type=live&id=7382
