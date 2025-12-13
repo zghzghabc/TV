@@ -84,33 +84,29 @@ Now星影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Q6zrzw&tk=aeFo3Lxm1DH1
 Now爆谷,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=g2wcbO&tk=aeFo3Lxm1DH1
 
 🇭🇰香港,#genre#
-凤凰资讯,http://lxj.i234.me:1672/yn.php?type=live&id=290
-凤凰中文,http://lxj.i234.me:1672/yn.php?type=live&id=289
-凤凰香港,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TYHgWf&tk=aeFo3Lxm1DH1
-香港卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=bjMTM1&tk=aeFo3Lxm1DH1
-无线新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=czVFNg&tk=aeFo3Lxm1DH1
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=5ElbrC&tk=aeFo3Lxm1DH1
-TVB Plus,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=vJxWrh&tk=aeFo3Lxm1DH1
-明珠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LamQdl&tk=aeFo3Lxm1DH1
-HOY 國際財經台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=LglNvL&tk=aeFo3Lxm1DH1
-HOY TV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Dwr0QK&tk=aeFo3Lxm1DH1
-HOY 資訊台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WXgzw5&tk=aeFo3Lxm1DH1
-ViuTVsix,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gFQLNo&tk=aeFo3Lxm1DH1
-ViuTV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TulF7Q&tk=aeFo3Lxm1DH1
-Now直播台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mCwrgS&tk=aeFo3Lxm1DH1
-Now新聞台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=HbO8TH&tk=aeFo3Lxm1DH1
-Now財經台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=5XgT9n&tk=aeFo3Lxm1DH1
-NowSports,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=pViHfr&tk=aeFo3Lxm1DH1
-翡翠剧集台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mj8jwm&tk=aeFo3Lxm1DH1
-明珠剧集台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=YobDlZ&tk=aeFo3Lxm1DH1
-黄金翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=u31jWY&tk=aeFo3Lxm1DH1
-TVB功夫(国语),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=reWcVV&tk=aeFo3Lxm1DH1
-TVB星河(国语),http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tCsKeh&tk=aeFo3Lxm1DH1
-TVB生活台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dOx5C4&tk=aeFo3Lxm1DH1
-TVB金曲,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=zgszcY&tk=aeFo3Lxm1DH1
-TVB奖门人,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6isLoI&tk=aeFo3Lxm1DH1
-黄金华剧台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rX3ho0&tk=aeFo3Lxm1DH1
-PopC电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=CvyOxm&tk=aeFo3Lxm1DH1
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+TVBPlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
+翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+无线华丽台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
+星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+无线娱乐台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+无线千禧台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+RTHK-31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
+RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
+VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+VIU6TV,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+Astr爱奇艺,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+AstrQJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+Astr-AoD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+Astr-AeC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+Astr欢喜,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 
 🇨🇳台湾,#genre#
 中天新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=YZJFxl&tk=aeFo3Lxm1DH1
