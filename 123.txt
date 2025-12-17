@@ -146,11 +146,31 @@ TVBS,http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS新闻,http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true
 寰宇新闻,http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
 中视经典,http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
+TVBS精彩,http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS欢乐,http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
 中天亚洲,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
 国会频道2,http://211.23.125.95:50007/4gtv-4gtv085/index.m3u8?proxy=true
 智林体育,http://211.23.125.95:50007/4gtv-4gtv101/index.m3u8?proxy=true
 民视,http://211.23.125.95:50007/4gtv-4gtv155/index.m3u8?proxy=true
-
+中视,http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
+华视,http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
+公视戏剧,http://211.23.125.95:50007/4gtv-4gtv042/index.m3u8?proxy=true
+客家电视,http://211.23.125.95:50007/4gtv-4gtv043/index.m3u8?proxy=true
+靖天卡通,http://211.23.125.95:50007/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋戏剧,http://211.23.125.95:50007/4gtv-4gtv045/index.m3u8?proxy=true
+靖天综合,http://211.23.125.95:50007/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://211.23.125.95:50007/4gtv-4gtv047/index.m3u8?proxy=true
+非凡商业,http://211.23.125.95:50007/4gtv-4gtv048/index.m3u8?proxy=true
+采昌电视,http://211.23.125.95:50007/4gtv-4gtv049/index.m3u8?proxy=true
+靖天欢乐,http://211.23.125.95:50007/4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画,http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
+靖羊卡通,http://211.23.125.95:50007/4gtv-4gtv057/index.m3u8?proxy=true
+靖天戏剧,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
+古典音乐,http://211.23.125.95:50007/4gtv-4gtv059/index.m3u8?proxy=true
+靖天电影,http://211.23.125.95:50007/4gtv-4gtv061/index.m3u8?proxy=true
+靖天音乐,http://211.23.125.95:50007/4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际,http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
+中视菁采,http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
 
 🇨🇳NewTV频道,#genre#
 中国功夫,https://iptv.catvod.com/live.php?id=NewTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB
