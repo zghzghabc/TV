@@ -145,6 +145,7 @@ Now財經台,http://hls.168.us.kg/u/333/master.m3u8
 TVBS,http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS新闻,http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true
 寰宇新闻,http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
+非凡新闻,http://211.23.125.95:50007/4gtv-4gtv010/index.m3u8?proxy=true
 中视经典,http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
 TVBS精彩,http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
 TVBS欢乐,http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
@@ -171,6 +172,16 @@ TVBS欢乐,http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
 靖天音乐,http://211.23.125.95:50007/4gtv-4gtv062/index.m3u8?proxy=true
 靖天国际,http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
 中视菁采,http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
+寰宇新闻台湾,http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
+中视新闻HD,http://211.23.125.95:50007/4gtv-4gtv074/index.m3u8?proxy=true
+台视财经,http://211.23.125.95:50007/4gtv-4gtv056/index.m3u8?proxy=true
+FTV综艺,http://211.23.125.95:50007/4gtv-4gtv004/index.m3u8?proxy=true
+FGM,http://211.23.125.95:50007/4gtv-4gtv011/index.m3u8?proxy=true
+CNEX,http://211.23.125.95:50007/4gtv-4gtv013/index.m3u8?proxy=true
+韩国娱乐,http://211.23.125.95:50007/4gtv-4gtv016/index.m3u8?proxy=true
+Davinci,http://211.23.125.95:50007/4gtv-4gtv018/index.m3u8?proxy=true
+八大精彩,http://211.23.125.95:50007/4gtv-4gtv034/index.m3u8?proxy=true
+八大综合,http://211.23.125.95:50007/4gtv-4gtv039/index.m3u8?proxy=true
 
 🇨🇳NewTV频道,#genre#
 中国功夫,https://iptv.catvod.com/live.php?id=NewTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB
