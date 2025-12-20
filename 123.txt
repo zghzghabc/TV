@@ -192,27 +192,19 @@ mezzo,http://211.23.125.95:50007/4gtv-4gtv083/index.m3u8?proxy=true
 GiNXTV,http://211.23.125.95:50007/4gtv-4gtv053/index.m3u8?proxy=true
 
 
-🇨🇳NewTV频道,#genre#
-中国功夫,https://iptv.catvod.com/live.php?id=NewTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB
-怡伴健康,https://iptv.catvod.com/live.php?id=NewTV%E6%80%A1%E4%BC%B4%E5%81%A5%E5%BA%B7
-军事评论,https://iptv.catvod.com/live.php?id=NewTV%E5%86%9B%E4%BA%8B%E8%AF%84%E8%AE%BA
-军旅剧场,https://iptv.catvod.com/live.php?id=NewTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA
-农业致富,https://iptv.catvod.com/live.php?id=NewTV%E5%86%9C%E4%B8%9A%E8%87%B4%E5%AF%8C
-动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-古装剧场,https://iptv.catvod.com/live.php?id=NewTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA
-家庭剧场,https://iptv.catvod.com/live.php?id=NewTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA
-武搏世界,https://iptv.catvod.com/live.php?id=NewTV%E6%AD%A6%E6%90%8F%E4%B8%96%E7%95%8C
-海外剧场,https://iptv.catvod.com/live.php?id=NewTV%E6%B5%B7%E5%A4%96%E5%89%A7%E5%9C%BA
-潮妈辣婆,https://iptv.catvod.com/live.php?id=NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86
-炫舞未来,https://iptv.catvod.com/live.php?id=NewTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5
-爱情喜剧,https://iptv.catvod.com/live.php?id=NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7
-精品体育,https://iptv.catvod.com/live.php?id=NewTV%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2
-精品大剧,https://iptv.catvod.com/live.php?id=NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7
-精品纪录,https://iptv.catvod.com/live.php?id=NewTV%E7%B2%BE%E5%93%81%E7%BA%AA%E5%BD%95
-超级电影,https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1
-超级电视剧,https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A72
-超级综艺,https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA
-谍战大剧,https://iptv.catvod.com/live.php?id=NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA
+🇨🇳央视收费,#genre#
+风云音乐,http://baota.guangyuan.site:8188/udp/239.253.43.6:5146
+世界地理,http://baota.guangyuan.site:8188/udp/239.253.43.7:5146
+女性时尚,http://baota.guangyuan.site:8188/udp/239.253.43.8:5146
+兵器科技,http://baota.guangyuan.site:8188/udp/239.253.43.9:5146
+电视指南,http://baota.guangyuan.site:8188/udp/239.253.43.10:5146
+文化精品,http://baota.guangyuan.site:8188/udp/239.253.43.13:5146
+第一剧场,http://baota.guangyuan.site:8188/udp/239.253.43.15:5146
+怀旧剧场,http://baota.guangyuan.site:8188/udp/239.253.43.5:5146
+风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.16:5146
+风云足球,http://baota.guangyuan.site:8188/udp/239.253.43.14:5146
+央视台球,http://baota.guangyuan.site:8188/udp/239.253.43.11:5146
+高尔夫网球,http://baota.guangyuan.site:8188/udp/239.253.43.12:5146
 
 
 🇨🇳云南,#genre#
