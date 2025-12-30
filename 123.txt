@@ -446,22 +446,21 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 
 
 🇯🇵成人频道_5201,#genre#
-潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-潘朵拉完美,https://ppt.cc/fgXIWx
-驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-驚艷台,https://ppt.cc/fmpKVx
-松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.m3u8
-松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.m3u8
-松视3,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlk207.flv
-松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.m3u8
-极限电影台,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlk038.flv
-极限电影台,http://z88.ubtvfans.com/live/rx3/405/f95ccfd8607fa48ca5046c0970bdfb7c/index.m3u8
-极限电影台,http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
-彩虹K频道,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlk108.flv
-彩虹电影,http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8
-彩虹E,http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
+极限电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/987.ts
+彩虹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/979.ts
+彩虹E,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/978.ts
+彩虹K,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/988.ts
+HAPPY,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/986.ts
+香蕉台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/983.ts
+驚艷台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/982.ts
+潘朵拉,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/981.ts
+松视1,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/984.ts
+松视2,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/985.ts
+PLAYBOY,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
+SEXY HOT,http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
+三级片,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/26641.ts
+探花视频,http://bo.xn--zwtw53a.com/live/cx_15710.flv
+约炮视频,http://bo.xn--tcwu45i.com/live/cx_15672.flv
+
 
 
