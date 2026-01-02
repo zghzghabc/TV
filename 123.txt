@@ -119,10 +119,6 @@ RHK32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
 RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 靖天電影台,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-Now直播台,http://hls.168.us.kg/u/331/master.m3u8
-Now財經台,http://hls.168.us.kg/u/333/master.m3u8
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映频道, http://php.jdshipin.com/smt.php?id=Celestial
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -146,6 +142,7 @@ TVBS新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/
 民視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/164.ts
 非凡新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/167.ts
 寰宇新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/170.ts
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 寰宇新聞台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/171.ts
 中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/176.ts
 中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/175.ts
