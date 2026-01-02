@@ -147,6 +147,10 @@ TVBS新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/
 民視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/164.ts
 非凡新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/167.ts
 寰宇新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/170.ts
+年代新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/165.ts
+三立新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/166.ts
+壹新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/172.ts
+镜新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/173.ts
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 寰宇新聞台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/171.ts
 中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/176.ts
@@ -186,7 +190,7 @@ PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/
 龙祥时代电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/209.ts
 好莱坞电影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/210.ts
 壹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/222.ts
-
+中国电影频道,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/44.ts
 
 
 
@@ -449,21 +453,37 @@ PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/
 
 
 🇯🇵成人频道_5201,#genre#
-极限电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/987.ts
-彩虹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/979.ts
-彩虹E,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/978.ts
-彩虹K,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/988.ts
-HAPPY,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/986.ts
-香蕉台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/983.ts
-驚艷台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/982.ts
-潘朵拉,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/981.ts
-松视1,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/984.ts
-松视2,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/985.ts
-PLAYBOY,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
-SEXY HOT,http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
-三级片,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/26641.ts
-探花视频,http://bo.xn--zwtw53a.com/live/cx_15710.flv
-约炮视频,http://bo.xn--tcwu45i.com/live/cx_15672.flv
+极限电影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/987.ts
+彩虹电影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/979.ts
+彩虹E,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/356332232/978.ts
+彩虹K,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/988.ts
+驚艷台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/982.ts
+潘朵拉完美,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/981.ts
+HAPPY,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/986.ts
+Banana香蕉台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/983.ts
+松视1台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/984.ts
+松视2台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/985.ts
+AbuseMee,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26634.ts
+Anna Di,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26635.ts
+Charlotte Sartre,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26636.ts
+Grazy Wife Slut,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26637.ts
+KL Couple,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26638.ts
+Pudlic Agent,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26639.ts
+Wired Pussy,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26640.ts
+Playboy,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/996.ts
+Vivid Red,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/997.ts
+Private,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/998.ts
+Dorcel,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/999.ts
+Dorcel XXX,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1000.ts
+Hustler TV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1001.ts
+Ped Light,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1003.ts
+Brazzers TV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1004.ts
+波多野结衣,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1044.ts
+传媒视频,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/1056.ts
+韩国三级片1,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/2530.ts
+韩国三级片2,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/2531.ts
+三级片24小时播放,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/26641.ts
+
 
 
 
