@@ -157,14 +157,14 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
 東森新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/162.ts
 TVBS新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/163.ts
-镜电新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/173.ts
+镜电视新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/173.ts
 中視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/168.ts
 台視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/174.ts
 民視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/164.ts
 非凡新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/167.ts
 寰宇新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/170.ts
 寰宇新聞台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/171.ts
-壹电新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/172.ts
+壹电视新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/172.ts
 年代新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/165.ts
 三立新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/166.ts
 中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/176.ts
