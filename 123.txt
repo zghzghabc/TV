@@ -138,252 +138,94 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 🇨🇳台湾,#genre#
-中天新闻 ,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/161.ts
-东森新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/162.ts
-TVBS 新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/163.ts
-三立新闻台,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/166.ts
-台视新闻 ,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/174.ts
-民视新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/164.ts
-中视新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/168.ts
-华视新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/169.ts
-寰宇新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/170.ts
-寰宇新闻台湾,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/171.ts
-年代新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/165.ts
-壹电视新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/172.ts
-镜电视新闻 ,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/173.ts
-非凡新闻台,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/167.ts
-三立财经新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/370.ts
-SBN 全球财经,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/371.ts
-东森财经新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/369.ts
-寰宇财经,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/379.ts
-台视财经,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/373.ts
-非凡商业,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/372.ts
-CNN国际新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/382.ts
-CNN头条新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/383.ts
-东森美洲新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/471.ts
-TVB 娱乐新闻,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/670.ts
-民视,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/156.ts
-中视,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/159.ts
-华视,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/158.ts
-台视,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/157.ts
-公视,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/160.ts
-中天综合,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/175.ts
-中天娱乐,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/176.ts
-中天亚洲,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/177.ts
-东森综合,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/178.ts
-东森电影,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/179.ts
-东森戏剧,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/180.ts
-东森洋片,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/181.ts
-TVBS 综合,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/182.ts
-TVBS 欢乐,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/183.ts
-TVBS 精采,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/184.ts
-TVBS 台剧,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/186.ts
-TVBS 综艺,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/185.ts
-三立综合,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/187.ts
-三立台湾,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/188.ts
-三立戏剧,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/190.ts
-三立都会,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/189.ts
-中视经典,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/196.ts
-中视菁采,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/197.ts
-民视台湾,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/192.ts
-民视影剧,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/194.ts
-民视旅游,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/195.ts
-民视第一,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/191.ts
-民视综艺,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/193.ts
-台视综合,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/198.ts
-公视3 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/200.ts
-公视台语台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/199.ts
-公视戏剧 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/201.ts
-HBO (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/202.ts
-HBO Family (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/204.ts
-HBO Hits (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/205.ts
-HBO Signature (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/203.ts
-HBO LOGO (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/206.ts
-CINEMAX (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/207.ts
-美亚电影台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/208.ts
-好莱坞电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/210.ts
-壹电影 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/222.ts
-龙祥时代电影 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/209.ts
-私人影院 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/225.ts
-影迷数位纪实台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/214.ts
-影迷数字电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/218.ts
-我的欧洲电影 My Cinema Europe (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/220.ts
-华纳电影台 WarnerTV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/221.ts
-AMC最爱电影 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/219.ts
-AXN (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/211.ts
-CATCHPLAY 电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/216.ts
-CI 罪案侦查频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/213.ts
-Cinema World (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/215.ts
-CNEX 视纳华仁纪实频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/217.ts
-HITS频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/212.ts
-Lifetime娱乐频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/223.ts
-tvN (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/224.ts
-纬来综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/229.ts
-纬来戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/230.ts
-纬来日本台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/227.ts
-纬来电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/231.ts
-纬来精彩台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/232.ts
-纬来育乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/228.ts
-龙华偶像台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/236.ts
-龙华卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/239.ts
-龙华戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/235.ts
-龙华日韩台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/234.ts
-龙华洋片台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/238.ts
-龙华电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/233.ts
-龙华经典台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/237.ts
-八大综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/241.ts
-八大娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/245.ts
-八大戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/242.ts
-八大第一台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/244.ts
-八大精彩台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/240.ts
-八大综艺台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/243.ts
-ELTA 爱尔达娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/252.ts
-ELTA 爱尔达影剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/248.ts
-ELTA 爱尔达日韩台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/250.ts
-ELTA 爱尔达生活旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/251.ts
-ELTA 爱尔达综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/249.ts
-靖天综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/279.ts
-靖天卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/277.ts
-靖天戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/275.ts
-靖天日本台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/280.ts
-靖天映画台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/281.ts
-靖天欢乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/284.ts
-靖天电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/282.ts
-靖天育乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/283.ts
-靖天资讯台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/285.ts
-靖洋戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/276.ts
-靖洋卡通Nice Bingo,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/278.ts
-KLT-靖天国际 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/286.ts
-探索频道 Discovery Channel  (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/287.ts
-探索亚洲 Discovery Asia (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/288.ts
-探索动力 Discovery DMAX (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/290.ts
-探索科学 Discovery Science (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/289.ts
-历史频道 2HISTORY 2 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/293.ts
-历史频道 History (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/292.ts
-国家地理 National Geographic (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/294.ts
-动物星球 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/295.ts
-亚洲美食频道 Asian Food Network (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/300.ts
-Discovery EVE (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/291.ts
-Smart 知识台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/331.ts
-TLC 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/298.ts
-Love Nature (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/296.ts
-BBC Earth (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/304.ts
-BBC Lifestyle (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/305.ts
-Asia 亚洲旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/297.ts
-Travel Channel 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/299.ts
-居家乐活频道 HGTV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/303.ts
-美食星球 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/301.ts
-幸福空间居家台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/347.ts
-东森幼幼台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/308.ts
-卡通频道 CN (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/314.ts
-卡通台 Cartoonito (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/318.ts
-达文西频道 DaVinCi (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/316.ts
-梦工厂动画 Dreamworks (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/317.ts
-尼克儿童频道 Nickelodeon (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/312.ts
-MOMO 亲子台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/313.ts
-Animax 卡通 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/310.ts
-BBC Cbeebies (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/319.ts
-Baby TV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/320.ts
-Boomerang (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/309.ts
-Nick Jr.儿童频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/311.ts
-爱放动漫台 I-Fun (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/315.ts
-经典卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/360.ts
-高点综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/324.ts
-JET 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/322.ts
-MOMO 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/321.ts
-ETtoday 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/367.ts
-EYE 戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/307.ts
-EYE 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/306.ts
-ROCK Action (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/328.ts
-ROCK Entertainment (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/327.ts
-ROCK Extreme (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/329.ts
-Z频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/339.ts
-东风卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/340.ts
-彩昌影剧 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/355.ts
-经典电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/359.ts
-华艺中文台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/345.ts
-台湾戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/325.ts
-无线卫星亚洲台 TVBS Asia (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/332.ts
-INULTRA (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/363.ts
-Fashion TV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/341.ts
-Fun 探索娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/356.ts
-Global Trekker (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/333.ts
-Channel V 音乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/357.ts
-LUXE TV Channel (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/362.ts
-Mezzo Live (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/343.ts
-Moonbug (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/364.ts
-年代MUCH台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/358.ts
-电影原声台 CMusic (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/326.ts
-音乐频道 MTV Live (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/344.ts
-MTV Asia (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/330.ts
-TRACE Urban (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/342.ts
-猪哥亮歌厅秀 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/354.ts
-古典乐 CLASSICA (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/348.ts
-GINX Esports TV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/334.ts
-博斯 Pace Sport (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/365.ts
-时尚运动X (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/346.ts
-环球旅行家 Globetrotter (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/302.ts
-生活時尚 TV5MONDE STYLE (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/361.ts
-金光布袋戏 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/352.ts
-霹雳台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/351.ts
-阿里郎频道 Arirang (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/350.ts
-韩国娱乐台 (TW) KMTV,http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/349.ts
-麦哲伦频道 Magellan TV (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/366.ts
-原住民族电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/381.ts
-客家电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/380.ts
-国会频道 1 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/393.ts
-国会频道 2 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/394.ts
-国兴卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/338.ts
-东森购物1台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/375.ts
-东森购物2台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/376.ts
-东森购物3台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/377.ts
-东森购物5台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/378.ts
-东森超视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/374.ts
-大爱电视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/396.ts
-大爱二台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/397.ts
-好消息 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/401.ts
-好消息2台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/402.ts
-华藏卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/398.ts
-人间卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/395.ts
-十方法界 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/400.ts
-希望频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/405.ts
-诚心电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/403.ts
-生命电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/404.ts
-无上师电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/399.ts
-NHK WORLD JAPAN (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/388.ts
-ELTV生活英语台 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/392.ts
-LiveABC互动英语频道 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/391.ts
-Cinemax H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/430.ts
-好莱坞电影 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/409.ts
-JET 综合台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/408.ts
-MOMO 综合台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/436.ts
-MOMO 亲子台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/435.ts
-TVBS H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/412.ts
-TVBS 欢乐台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/413.ts
-东森幼幼 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/414.ts
-东森戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/416.ts
-东森综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/415.ts
-东森财经 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/417.ts
-中天娱乐 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/411.ts
-中天综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/410.ts
-三立新闻 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/418.ts
-三立台湾台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/419.ts
-三立都会台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/420.ts
-国兴卫视 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/431.ts
-壹新闻台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/407.ts
-年代新闻台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/406.ts
-年代MUCH台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/434.ts
-纬来戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/426.ts
-纬来日本 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/427.ts
-纬来电影 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/429.ts
-纬来综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/425.ts
-纬来育乐 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/428.ts
-八大综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/421.ts
-八大戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/423.ts
-八大第一 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/422.ts
-动物星球 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/433.ts
-TLC 旅遊生活台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/432.ts
-TaiWan Plus H265 (TW),http://iptvpro.pw:35451//live/加QQ群1041749599/68686868/437.ts
+中天新闻,http://43.156.8.127:8080/smart.php?id=ctinews&token=aini1688
+东森新闻,http://43.156.8.127:8080/smart.php?id=ettvnews&token=aini1688
+TVBS 新闻,http://43.156.8.127:8080/smart.php?id=tvbs_n&token=aini1688
+台视新闻,http://43.156.8.127:8080/smart.php?id=ttvnews_twn&token=aini1688
+中视新闻,http://43.156.8.127:8080/smart.php?id=zhongshinews_twn&token=aini1688
+民视新闻,http://43.156.8.127:8080/smart.php?id=ftvnew_taiwan&token=aini1688
+寰宇新闻,http://43.156.8.127:8080/smart.php?id=huanyuxinwen_twn&token=aini1688
+东森财经,http://43.156.8.127:8080/smart.php?id=ettvcaijing_twn&token=aini1688
+卫视电影,http://43.156.8.127:8080/smart.php?id=weishimovie_twn&token=aini1688
+龙祥时代,http://43.156.8.127:8080/smart.php?id=lungxiangtime_twn&token=aini1688
+美亚电影,http://43.156.8.127:8080/smart.php?id=meiyamovie_twn&token=aini1688
+龙华洋片,http://43.156.8.127:8080/smart.php?id=lunghuawestern_twn&token=aini1688
+龙华经典,http://43.156.8.127:8080/smart.php?id=lunghuajingdian_twn&token=aini1688
+纬来电影,http://43.156.8.127:8080/smart.php?id=videolandmovie&token=aini1688
+东森电影台,http://43.156.8.127:8080/smart.php?id=ettvmovie&token=aini1688
+龙华电影,http://43.156.8.127:8080/smart.php?id=xingwei_movie&token=aini1688
+天映频道,http://43.156.8.127:8080/smart.php?id=Celestial&token=aini1688
+天映频道,http://43.156.8.127:8080/smart.php?id=Celestialindo&token=aini1688
+天映经典,http://43.156.8.127:8080/smart.php?id=Celestial2&token=aini1688
+台视 HD,http://43.156.8.127:8080/smart.php?id=ttv_taiwan&token=aini1688
+台视综合,http://43.156.8.127:8080/smart.php?id=ttvzhonghe&token=aini1688
+中视 HD,http://43.156.8.127:8080/smart.php?id=zhongshihd_twn&token=aini1688
+中视经典,http://43.156.8.127:8080/smart.php?id=zhongshi_twn&token=aini1688
+华视 HD,http://43.156.8.127:8080/smart.php?id=ctshd_twn&token=aini1688
+公视 HD,http://43.156.8.127:8080/smart.php?id=ctv_taiwan&token=aini1688
+公视台语台,http://43.156.8.127:8080/smart.php?id=ctv2_twn&token=aini1688
+三立台湾台,http://43.156.8.127:8080/smart.php?id=sanlitaiwan&token=aini1688
+三立都会台,http://43.156.8.127:8080/smart.php?id=sanlidouhui&token=aini1688
+三立综合台,http://43.156.8.127:8080/smart.php?id=sanlizhonghe&token=aini1688
+三立戏剧台,http://43.156.8.127:8080/smart.php?id=sanlixiju_twn&token=aini1688
+东森综合台,http://43.156.8.127:8080/smart.php?id=ettvzhonghe&token=aini1688
+东森戏剧台,http://43.156.8.127:8080/smart.php?id=ettvdrama&token=aini1688
+东森洋片台,http://43.156.8.127:8080/smart.php?id=ettvwestern&token=aini1688
+东森幼幼台,http://43.156.8.127:8080/smart.php?id=yoyo_twn&token=aini1688
+东森超视,http://43.156.8.127:8080/smart.php?id=ettvsuper&token=aini1688
+TVBS HD,http://43.156.8.127:8080/smart.php?id=tvbs&token=aini1688
+TVBS 欢乐台,http://43.156.8.127:8080/smart.php?id=tvbshuanle_twn&token=aini1688
+民视 HD,http://43.156.8.127:8080/smart.php?id=ftvhd_taiwan&token=aini1688
+民视台湾台,http://43.156.8.127:8080/smart.php?id=ftvtaiwan_twn&token=aini1688
+中天综合,http://43.156.8.127:8080/smart.php?id=ctizhonghe&token=aini1688
+中天娱乐,http://43.156.8.127:8080/smart.php?id=ctient&token=aini1688
+中天亚洲,http://43.156.8.127:8080/smart.php?id=ctiasia_twn&token=aini1688
+寰宇财经台,http://43.156.8.127:8080/smart.php?id=huanyutaiwan_twn&token=aini1688
+八大第一台,http://43.156.8.127:8080/smart.php?id=badafirst&token=aini1688
+八大综合台,http://43.156.8.127:8080/smart.php?id=badazhonghe&token=aini1688
+八大戏剧台,http://43.156.8.127:8080/smart.php?id=badadrama&token=aini1688
+八大娱乐台,http://43.156.8.127:8080/smart.php?id=badaentertain&token=aini1688
+纬来体育,http://43.156.8.127:8080/smart.php?id=videolandsport&token=aini1688
+纬来精彩,http://43.156.8.127:8080/smart.php?id=videolandspecial_twn&token=aini1688
+纬来日本,http://43.156.8.127:8080/smart.php?id=videolandjapan&token=aini1688
+纬来综合,http://43.156.8.127:8080/smart.php?id=videolandzonghe&token=aini1688
+纬来育乐,http://43.156.8.127:8080/smart.php?id=videolandyule&token=aini1688
+爱尔达综合台,http://43.156.8.127:8080/smart.php?id=eltazonghe_twn&token=aini1688
+爱尔达影剧台,http://43.156.8.127:8080/smart.php?id=eltayingju_twn&token=aini1688
+爱尔达体育1台,http://43.156.8.127:8080/smart.php?id=eltasport_twn&token=aini1688
+爱尔达体育2台,http://43.156.8.127:8080/smart.php?id=eltasport2_twn&token=aini1688
+爱尔达体育3台,http://43.156.8.127:8080/smart.php?id=eltasport3_twn&token=aini1688
+爱尔达体育4台,http://43.156.8.127:8080/smart.php?id=eltasports4_twn&token=aini1688
+非凡新闻,http://43.156.8.127:8080/smart.php?id=feifannews_twn&token=aini1688
+年代新闻,http://43.156.8.127:8080/smart.php?id=niandainews_twn&token=aini1688
+龙华戏剧,http://43.156.8.127:8080/smart.php?id=lunghuaxiju_twn&token=aini1688
+龙华偶像,http://43.156.8.127:8080/smart.php?id=lunghuaidol_twn&token=aini1688
+靖天国际,http://43.156.8.127:8080/smart.php?id=jingtianintl_twn&token=aini1688
+靖天卡通,http://43.156.8.127:8080/smart.php?id=jingtiancartoon_twn&token=aini1688
+大愛電視,http://43.156.8.127:8080/smart.php?id=daai_twn&token=aini1688
+大愛二台,http://43.156.8.127:8080/smart.php?id=daai2_twn&token=aini1688
+EYE 旅游台,http://43.156.8.127:8080/smart.php?id=eyetvtravel_twn&token=aini1688
+EYE 戏剧台,http://43.156.8.127:8080/smart.php?id=eyetvxiju_twn&token=aini1688
+亚洲美食,http://43.156.8.127:8080/smart.php?id=afc_twn&token=aini1688
+美食星球,http://43.156.8.127:8080/smart.php?id=foodplanet_twn&token=aini1688
+TLC旅遊生活,http://43.156.8.127:8080/smart.php?id=tlc_twn&token=aini1688
+亚洲旅游台,http://43.156.8.127:8080/smart.php?id=asiatravel_twn&token=aini1688
+Arirang,http://43.156.8.127:8080/smart.php?id=arirang_twn&token=aini1688
+AXN Taiwan,http://43.156.8.127:8080/smart.php?id=axn_twn&token=aini1688
+MTV Live,http://43.156.8.127:8080/smart.php?id=mtvhd_twn&token=aini1688
+HBO_HD,http://43.156.8.127:8080/smart.php?id=hbohd_twn&token=aini1688
+HBO_HITS,http://43.156.8.127:8080/smart.php?id=hbohit_twn&token=aini1688
+CINEMAX,http://43.156.8.127:8080/smart.php?id=cinemax_twn&token=aini1688
+好萊塢電影台,http://43.156.8.127:8080/smart.php?id=hollywoodmovies_twn&token=aini1688
+華藝綜合,http://43.156.8.127:8080/smart.php?id=weishichinese_twn&token=aini1688
+博斯运动一台,http://43.156.8.127:8080/smart.php?id=bosisport1_twn&token=aini1688
+博斯运动二台,http://43.156.8.127:8080/smart.php?id=bosisport2_twn&token=aini1688
+博斯高球一台,http://43.156.8.127:8080/smart.php?id=bosigolf1_twn&token=aini1688
+博斯高球二台,http://43.156.8.127:8080/smart.php?id=bosigolf2_twn&token=aini1688
+博斯网球台,http://43.156.8.127:8080/smart.php?id=bositennis_twn&token=aini1688
+博斯无限台,http://43.156.8.127:8080/smart.php?id=bosiunlimited_twn&token=aini1688
+好消息 2,http://43.156.8.127:8080/smart.php?id=good2_twn&token=aini1688
+
 
 
 
