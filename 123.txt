@@ -106,50 +106,56 @@ PopC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 
 
 🇭🇰香港,#genre#
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx#http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd#http://r.jdshipin.com/0Rp07
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw#http://r.jdshipin.com/cCCzW#http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk#http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn#http://r.jdshipin.com/yDoTN
-无线新闻台,https://cdn6.101.qzz.io/163189/wxxw#http://hls.168.us.kg/u/83/master.m3u8
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-Now直播台,http://hls.168.us.kg/u/331/master.m3u8
-Now財經台,http://hls.168.us.kg/u/333/master.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://r.jdshipin.com/thuYX
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,http://hls.168.us.kg/u/84/master.m3u8
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB星河,https://cdn6.101.qzz.io/163189/tvbxh
-TVB星河,http://r.jdshipin.com/Voac4
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
-ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
-ViuTV6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
-RHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RHK32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
-RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-靖天電影台,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-香港环球卫视,https://play.xghqws.cn/yunqing888/yunqing888.m3u8?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2&rts_degrade=on
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+鳳凰資訊,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/17.ts
+鳳凰衛視,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/18.ts
+鳳凰香港,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/19.ts
+无线新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/3.ts
+無線新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/8.ts
+無線新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/9.ts
+TVB Plus,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/4.ts
+明珠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/5.ts
+ViuTV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/6.ts
+翡翠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/7.ts
+明珠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/10.ts
+TVB,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/11.ts
+翡翠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/12.ts
+无线新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/13.ts
+TVB,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/14.ts
+TVB,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/15.ts
+明珠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/16.ts
+鳳凰衛視電影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/20.ts
+HOY78,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/22.ts
+HOY76,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/23.ts
+HOY31,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/24.ts
+HOY32,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/25.ts
+HOY33,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/26.ts
+HOY34,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/27.ts
+HOY35,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/28.ts
+now新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/29.ts
+now财经,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/30.ts
+now直播,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/31.ts
+Viu6,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/32.ts
+Viu剧集,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/33.ts
+Now 華劇台 (粵),http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/34.ts
+Now 華劇台 (國) ,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/35.ts
+Now Jelli 紫金,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/36.ts
+HBO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/37.ts
+MOVIE,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/38.ts
+Cinemax,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/39.ts
+Now星影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/40.ts
+Now爆谷台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/41.ts
+美亞電影台(粵),http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/42.ts
+美亞電影台(國),http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/43.ts
+中國電影頻道,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/44.ts
+POPC,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/45.ts
+KIX,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/46.ts
+TVB SUPER-FREE (粵),http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/47.ts
+SUPER Sports,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/48.ts
+ViuTV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/49.ts
+TVB SUPER-FREE (國),http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/50.ts
+
+
+
 
 🇨🇳台湾,#genre#
 民视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/156.ts
