@@ -152,54 +152,75 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 🇨🇳台湾,#genre#
-中天新聞,http://rihou.cc:555/tv/[SZ]中天新闻
-寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新闻
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-東森新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/162.ts
-TVBS新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/163.ts
-镜电视新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/173.ts
-中視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/168.ts
-台視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/174.ts
-民視新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/164.ts
-非凡新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/167.ts
-寰宇新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/170.ts
-寰宇新聞台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/171.ts
-壹电视新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/172.ts
-年代新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/165.ts
-三立新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/166.ts
-中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/176.ts
-中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/175.ts
-中天亚洲,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/177.ts
-华视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/158.ts
-中視,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/159.ts
-中視经典,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/196.ts
-中視菁采HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/197.ts
-公視,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/160.ts
-公視台语台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/199.ts
-公視戏剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/201.ts
-台視,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/157.ts
-台视综合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/198.ts
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-民視第一台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/191.ts
-民視台湾台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/192.ts
-民视综艺,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/193.ts
-民视影剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/194.ts
-民视旅游,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/195.ts
-八大綜合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/241.ts
-八大戏剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/242.ts
-八大第1台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/244.ts
-八大娱乐台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/245.ts
-八大綜藝台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/243.ts
-TVBS,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/182.ts
-TVBS欢乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/183.ts
-TVBS精采台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/184.ts
-TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
-TVBS综艺台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/185.ts
-TVBS台剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/186.ts
-三立综合台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/187.ts
-三立台湾台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/188.ts
-三立都会台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/189.ts
-三立戏剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/77228833/190.ts
+民视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/156.ts
+台视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/157.ts
+华视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/158.ts
+中视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/159.ts
+公视,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/160.ts
+中天新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/161.ts
+東森新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/162.ts
+TVBS新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/163.ts
+民视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/164.ts
+年代新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/165.ts
+三立新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/166.ts
+非凡新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/167.ts
+中视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/168.ts
+华视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/169.ts
+寰宇新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/170.ts
+寰宇新闻台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/171.ts
+壹电视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/172.ts
+镜电视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/173.ts
+台视新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/174.ts
+中天综合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/175.ts
+中天娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/176.ts
+中天亚洲,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/177.ts
+东森综合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/178.ts
+东森电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/179.ts
+东森戏剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/180.ts
+东森洋片,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/181.ts
+TVBS,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/182.ts
+TVBS欢乐台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/183.ts
+TVBS精采台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/184.ts
+TVBS综艺台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/185.ts
+TVBS台剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/186.ts
+三立综合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/187.ts
+三立台湾,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/188.ts
+三立都会,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/189.ts
+民视第一台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/191.ts
+民视台湾台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/192.ts
+FTV综艺,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/193.ts
+FTV影剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/194.ts
+FTV旅游,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/195.ts
+中视经典,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/196.ts
+中视菁采,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/197.ts
+台视综合,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/198.ts
+公视台语台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/199.ts
+就是这样,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/200.ts
+公视戏剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/201.ts
+HBO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/202.ts
+HBO Signature,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/203.ts
+HBO Family,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/204.ts
+HBO Hits,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/205.ts
+HBO LOGO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/206.ts
+CINEMAX,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/207.ts
+美亚电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/208.ts
+龙祥时代,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/209.ts
+好莱坞电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/210.ts
+AXN,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/211.ts
+HITS频道,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/212.ts
+CI罪案侦查,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/213.ts
+影迷纪实,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/214.ts
+Cinema World,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/215.ts
+CATCHPLAY,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/216.ts
+CNEX 视纳华仁纪实,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/217.ts
+FGM gold,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/218.ts
+amc电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/219.ts
+My Cinema Europe,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/220.ts
+华纳电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/221.ts
+壹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/222.ts
+Lifetime娱乐,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/223.ts
+tvN,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/76768585/224.ts
+
 
 
 
