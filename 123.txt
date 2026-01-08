@@ -29,7 +29,7 @@ CGTN俄语,http://lxj.i234.me:1672/yn.php?type=back&id=606
 CGTN纪录,http://lxj.i234.me:1672/yn.php?type=back&id=603
 CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 
-新聞,#genre#
+🇨🇳新闻,#genre#
 TVB 無線新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/3.ts
 TVB 無線新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/8.ts
 TVB 無線新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/9.ts
@@ -250,7 +250,7 @@ SUPER Sports CH11(HK),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/
 
 
 
-🇹🇼台湾,#genre#
+🇨🇳台湾,#genre#
 民视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/156.ts
 中视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/159.ts
 华视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/158.ts
@@ -475,7 +475,7 @@ TLC 旅遊生活台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/6
 TaiWan Plus H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/437.ts
 
 
-体育,#genre#
+🇨🇳体育,#genre#
 Fight Sports CH642 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/108.ts
 Now 668 (粵) CH668 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/112.ts
 Now 668 (國) CH668 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/69697878/113.ts
