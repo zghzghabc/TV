@@ -85,6 +85,10 @@ CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 广东民生,http://go.bkpcp.top/mg/gdms
 
 🇨🇳其它,#genre#
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
@@ -92,10 +96,6 @@ CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 
 
 🇨🇳新闻,#genre#
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
-无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 鳳凰資訊,http://iptvpro.pw:35451//live/加QQ群1077202079/44256698/88.ts
 無線新聞,http://iptvpro.pw:35451//live/加QQ群1077202079/44256698/13.ts
 中天新闻,http://iptvpro.pw:35451//live/加QQ群1077202079/44256698/161.ts
