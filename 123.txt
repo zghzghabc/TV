@@ -29,6 +29,20 @@ CGTN俄语,http://lxj.i234.me:1672/yn.php?type=back&id=606
 CGTN纪录,http://lxj.i234.me:1672/yn.php?type=back&id=603
 CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 
+🇨🇳央视收费,#genre#
+风云音乐,http://baota.guangyuan.site:8188/udp/239.253.43.6:5146
+世界地理,http://baota.guangyuan.site:8188/udp/239.253.43.7:5146
+女性时尚,http://baota.guangyuan.site:8188/udp/239.253.43.8:5146
+兵器科技,http://baota.guangyuan.site:8188/udp/239.253.43.9:5146
+电视指南,http://baota.guangyuan.site:8188/udp/239.253.43.10:5146
+文化精品,http://baota.guangyuan.site:8188/udp/239.253.43.13:5146
+第一剧场,http://baota.guangyuan.site:8188/udp/239.253.43.15:5146
+怀旧剧场,http://baota.guangyuan.site:8188/udp/239.253.43.5:5146
+风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.16:5146
+风云足球,http://baota.guangyuan.site:8188/udp/239.253.43.14:5146
+央视台球,http://baota.guangyuan.site:8188/udp/239.253.43.11:5146
+高尔夫网球,http://baota.guangyuan.site:8188/udp/239.253.43.12:5146
+
 🇨🇳新闻,#genre#
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
@@ -702,22 +716,6 @@ UK Euro Sport 1,http://iptvpro.pw:35451//live/加QQ群1078393318领福利/312001
 UK Euro Sport 2,http://iptvpro.pw:35451//live/加QQ群1078393318领福利/31200123/1511.ts
 
 
-
-
-
-🇨🇳央视收费,#genre#
-风云音乐,http://baota.guangyuan.site:8188/udp/239.253.43.6:5146
-世界地理,http://baota.guangyuan.site:8188/udp/239.253.43.7:5146
-女性时尚,http://baota.guangyuan.site:8188/udp/239.253.43.8:5146
-兵器科技,http://baota.guangyuan.site:8188/udp/239.253.43.9:5146
-电视指南,http://baota.guangyuan.site:8188/udp/239.253.43.10:5146
-文化精品,http://baota.guangyuan.site:8188/udp/239.253.43.13:5146
-第一剧场,http://baota.guangyuan.site:8188/udp/239.253.43.15:5146
-怀旧剧场,http://baota.guangyuan.site:8188/udp/239.253.43.5:5146
-风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.16:5146
-风云足球,http://baota.guangyuan.site:8188/udp/239.253.43.14:5146
-央视台球,http://baota.guangyuan.site:8188/udp/239.253.43.11:5146
-高尔夫网球,http://baota.guangyuan.site:8188/udp/239.253.43.12:5146
 
 
 🇨🇳云南,#genre#
