@@ -482,7 +482,7 @@ TVBS 欢乐台,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/413.ts
 TLC旅遊生活台,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/432.ts
 TaiWan Plus,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/437.ts
 
-🚢海外中文OC,#genre#
+🚢海外中文,#genre#
 TVB 1 (美),http://iptvpro.pw:35451/live/41653899/41653899/440.ts
 TVB J1 (美),http://iptvpro.pw:35451/live/41653899/41653899/441.ts
 TVB E (美),http://iptvpro.pw:35451/live/41653899/41653899/442.ts
@@ -545,7 +545,7 @@ Lifetime,http://iptvpro.pw:35451/live/41653899/41653899/627.ts
 TVB 星河 (中),http://iptvpro.pw:35451/live/41653899/41653899/607.ts
 TVB 翡翠台,http://iptvpro.pw:35451/live/41653899/41653899/608.ts
 
-🇲🇾马来西亚MY,#genre#
+🇲🇾马来西亚,#genre#
 TV1 ,http://iptvpro.pw:35451/live/41653899/41653899/650.ts
 TV2 ,http://iptvpro.pw:35451/live/41653899/41653899/651.ts
 TV3 ,http://iptvpro.pw:35451/live/41653899/41653899/652.ts
@@ -1805,7 +1805,7 @@ Arb SLNTV,http://iptvpro.pw:35451//live/41653899/41653899/2268.ts
 Arb RTD DIJIBOUTI,http://iptvpro.pw:35451//live/41653899/41653899/2270.ts
 Arb sudan tv,http://iptvpro.pw:35451//live/41653899/41653899/2271.ts
 
-🇨🇳体育,#genre#
+⛹️‍体育,#genre#
 Fight Sports CH642,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/108.ts
 Now 668 (粵) CH668,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/112.ts
 Now 668 (國) CH668,http://iptvpro.pw:35451//live/加QQ群1077202079/41653899/113.ts
