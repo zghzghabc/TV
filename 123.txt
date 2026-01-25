@@ -85,6 +85,13 @@ CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 广东民生,http://go.bkpcp.top/mg/gdms
 
 🇨🇳其它,#genre#
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
