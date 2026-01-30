@@ -1439,191 +1439,191 @@ UK ITV 1,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1489.ts
 UK ITV 2,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1492.ts
 UK ITV 3,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1493.ts
 UK ITV 4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1494.ts
-UK Channel 4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11490.ts
-UK Channel 5,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11491.ts
-UK Sky Cinema Action,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11501.ts
-UK Sky Cinema Animation,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11551.ts
-UK Sky Cinema Comedy,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11502.ts
-UK Sky Cinema Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11504.ts
-UK Sky Cinema Family,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11500.ts
-UK Sky Cinema Greats,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11499.ts
-UK Sky Cinema Hits,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11498.ts
-UK Sky Cinema Premiere,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11496.ts
-UK Sky Cinema ScFi Horror,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11505.ts
-UK Sky Cinema Select,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11497.ts
-UK Sky Cinema Thriller,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11503.ts
-UK Sky Comedy,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11553.ts
-UK Sky Atlantic,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11552.ts
-UK TNT Sports 4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11539.ts
-EIR Sports,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11569.ts
-Free Sports,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11570.ts
-TRACE Sport Stars,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11572.ts
-UK Premier Sports 1,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11509.ts
-UK Premier Sports 2,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11510.ts
-UK MUTV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11549.ts
-UK LFC TV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11575.ts
-UK 4Seven,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11547.ts
-UK Quest,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11530.ts
-UK SYFY,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11534.ts
-UK Yesterday,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11526.ts
-UK More4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11542.ts
-UK Alibi,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11541.ts
-UK Cbeebies,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11536.ts
-UK CBS Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11543.ts
-UK Comedy Central,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11527.ts
-UK Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11546.ts
-UK E!,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11573.ts
-UK E4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11506.ts
-UK Film4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11528.ts
-UK Gold,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11531.ts
-UK ITV Be,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11544.ts
-UK Crime+Inv,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11508.ts
-TRACE Urban,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11571.ts
-UK Boomerang,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11518.ts
-UK Cartoon Network,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11520.ts
-UK Discovery,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11538.ts
-UK Discovery History,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11522.ts
-UK Discovery Science,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11523.ts
-UK Discovery Turbo,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11521.ts
-UK Animal Planet,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11529.ts
-UK DMAX,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11535.ts
-UK Food Network,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11525.ts
-UK History,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11519.ts
-UK TLC,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11515.ts
-UK NAT GEO WILD,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11545.ts
-UK Mtv Classic,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11514.ts
-UK MTV Hits,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11532.ts
-UK MTV Music,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11533.ts
-UK NICK,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11550.ts
-UK Nicktoons,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11517.ts
-UK Pop,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11524.ts
-UK Tiny Pop,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11516.ts
-UK ZEE TV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11548.ts
-UK SET,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11537.ts
+UK Channel 4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1490.ts
+UK Channel 5,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1491.ts
+UK Sky Cinema Action,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1501.ts
+UK Sky Cinema Animation,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1551.ts
+UK Sky Cinema Comedy,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1502.ts
+UK Sky Cinema Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1504.ts
+UK Sky Cinema Family,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1500.ts
+UK Sky Cinema Greats,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1499.ts
+UK Sky Cinema Hits,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1498.ts
+UK Sky Cinema Premiere,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1496.ts
+UK Sky Cinema ScFi Horror,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1505.ts
+UK Sky Cinema Select,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1497.ts
+UK Sky Cinema Thriller,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1503.ts
+UK Sky Comedy,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1553.ts
+UK Sky Atlantic,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1552.ts
+UK TNT Sports 4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1539.ts
+EIR Sports,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1569.ts
+Free Sports,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1570.ts
+TRACE Sport Stars,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1572.ts
+UK Premier Sports 1,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1509.ts
+UK Premier Sports 2,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1510.ts
+UK MUTV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1549.ts
+UK LFC TV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1575.ts
+UK 4Seven,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1547.ts
+UK Quest,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1530.ts
+UK SYFY,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1534.ts
+UK Yesterday,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1526.ts
+UK More4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1542.ts
+UK Alibi,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1541.ts
+UK Cbeebies,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1536.ts
+UK CBS Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1543.ts
+UK Comedy Central,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1527.ts
+UK Drama,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1546.ts
+UK E!,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1573.ts
+UK E4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1506.ts
+UK Film4,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1528.ts
+UK Gold,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1531.ts
+UK ITV Be,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1544.ts
+UK Crime+Inv,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1508.ts
+TRACE Urban,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1571.ts
+UK Boomerang,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1518.ts
+UK Cartoon Network,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1520.ts
+UK Discovery,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1538.ts
+UK Discovery History,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1522.ts
+UK Discovery Science,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1523.ts
+UK Discovery Turbo,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1521.ts
+UK Animal Planet,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1529.ts
+UK DMAX,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1535.ts
+UK Food Network,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1525.ts
+UK History,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1519.ts
+UK TLC,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1515.ts
+UK NAT GEO WILD,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1545.ts
+UK Mtv Classic,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1514.ts
+UK MTV Hits,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1532.ts
+UK MTV Music,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1533.ts
+UK NICK,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1550.ts
+UK Nicktoons,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1517.ts
+UK Pop,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1524.ts
+UK Tiny Pop,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1516.ts
+UK ZEE TV,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1548.ts
+UK SET,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1537.ts
 
 🇫🇷法国,#genre#
-FR TF 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11578.ts
-FR M6,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11583.ts
-FR France 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11579.ts
-FR France 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11580.ts
-FR France 4,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11651.ts
-FR France 5,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11582.ts
-FR France 24,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11672.ts
-France Info,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11671.ts
-FR Euronews,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11673.ts
-FR I24 News,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11674.ts
-FR beIN Sports 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11610.ts
-FR beIN Sports 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11611.ts
-FR beIN Sports 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11612.ts
-FR beIN Sports Max 4,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11663.ts
-FR beIN Sports Max 5,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11664.ts
-FR beIN Sports Max 6,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11665.ts
-FR beIN Sports Max 7,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11666.ts
-FR beIN Sports Max 8,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11667.ts
-FR beIN Sports Max 9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11668.ts
-FR beIN Sports Max 10,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11669.ts
-FR Canal+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11581.ts
-FR Canal+ Cinema,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11586.ts
-FR Canal+ Docs,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11675.ts
-FR Canal+ Foot+ 24,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11684.ts
-FR Canal+ Grand Ecran,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11653.ts
-FR Canal+ Kids,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11683.ts
-FR Canal+ Premier League,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11685.ts
-FR Canal+ Series,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11587.ts
-FR Canal+ Sport,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11585.ts
-FR Cine+ Classic,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11593.ts
-FR Cine+ Club,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11592.ts
-FR Cine+ Emotion,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11590.ts
-FR Cine+ Famiz,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11591.ts
-FR Cine+ Frisson,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11589.ts
-FR Cine+ Premier,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11588.ts
-FR Eurosport 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11608.ts
-FR Eurosport 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11609.ts
-FR Golf+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11613.ts
-FR Canal J,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11648.ts
-FR Chasse Et Peche,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11636.ts
-FR 13 RUE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11682.ts
-FR 6ter,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11623.ts
-FR AB 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11606.ts
-FR AB 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11678.ts
-FR Action,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11600.ts
-FR Animaux,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11637.ts
-FR ARTE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11584.ts
-FR Automoto,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11614.ts
-FR Cherie 25,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11625.ts
-FR CNews,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11661.ts
-FR Comedie+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11615.ts
-FR Comedy Central,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11656.ts
-FR Cstar,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11622.ts
-FR BFM Business,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11677.ts
-FR BFM TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11662.ts
-FR Boing,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11649.ts
-FR C8,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11617.ts
-FR Disney Channel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11645.ts
-FR Disney Junior,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11640.ts
-FR Gulli,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11652.ts
-FR Cartoon Network,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11646.ts
-FR Boomerang,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11643.ts
-FR Nickelodeon,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11647.ts
-FR Nickelodeon Junior,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11641.ts
-FR Piwi+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11639.ts
-FR Teletoon+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11644.ts
-FR Tiji,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11642.ts
-FR Toonami,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11689.ts
-FR Game One,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11659.ts
-FR Equidia,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11688.ts
-FR Discovery,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11681.ts
-FR Histoire,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11632.ts
-FR NatGeo Wild,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11631.ts
-FR National Geographic,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11630.ts
-FR Planet+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11627.ts
-FR Planet+ A&E,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11629.ts
-FR Planet+ CI,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11628.ts
-FR Polar+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11601.ts
-FR Infosport+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11687.ts
-FR J-One,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11657.ts
-FR La Chaine Meteo,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11660.ts
-FR LCI,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11670.ts
-FR M6 Music,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11680.ts
-FR Mangas,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11658.ts
-FR MCM,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11655.ts
-FR MTV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11654.ts
-FR NRJ 12,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11621.ts
-FR NRJ Hits,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11679.ts
-FR OCS Chok,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11596.ts
-FR OCS City,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11595.ts
-FR OCS Geants,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11597.ts
-FR OCS Max,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11594.ts
-FR Paramount Channel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11599.ts
-FR Paris Premiere,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11616.ts
-FR RMC Decouverte,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11638.ts
-FR RMC Story,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11624.ts
-FR Toute Histoire,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11633.ts
-FR Sciencee T Vie TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11634.ts
-FR RTL 9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11605.ts
-FR Seasons,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11635.ts
-FR Serie Club,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11603.ts
-FR SYFY,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11676.ts
-FR TCM,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11598.ts
-FR TF 1 Series&Films,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11607.ts
-FR TFX,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11620.ts
-FR TMC,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11619.ts
-FR TV Breizh,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11604.ts
-FR TV5 Monde,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11626.ts
-FR Ushuaia TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11686.ts
-FR W9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11618.ts
-FR Warner TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11602.ts
+FR TF 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1578.ts
+FR M6,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1583.ts
+FR France 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1579.ts
+FR France 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1580.ts
+FR France 4,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1651.ts
+FR France 5,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1582.ts
+FR France 24,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1672.ts
+France Info,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1671.ts
+FR Euronews,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1673.ts
+FR I24 News,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1674.ts
+FR beIN Sports 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1610.ts
+FR beIN Sports 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1611.ts
+FR beIN Sports 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1612.ts
+FR beIN Sports Max 4,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1663.ts
+FR beIN Sports Max 5,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1664.ts
+FR beIN Sports Max 6,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1665.ts
+FR beIN Sports Max 7,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1666.ts
+FR beIN Sports Max 8,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1667.ts
+FR beIN Sports Max 9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1668.ts
+FR beIN Sports Max 10,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1669.ts
+FR Canal+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1581.ts
+FR Canal+ Cinema,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1586.ts
+FR Canal+ Docs,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1675.ts
+FR Canal+ Foot+ 24,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1684.ts
+FR Canal+ Grand Ecran,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1653.ts
+FR Canal+ Kids,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1683.ts
+FR Canal+ Premier League,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1685.ts
+FR Canal+ Series,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1587.ts
+FR Canal+ Sport,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1585.ts
+FR Cine+ Classic,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1593.ts
+FR Cine+ Club,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1592.ts
+FR Cine+ Emotion,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1590.ts
+FR Cine+ Famiz,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1591.ts
+FR Cine+ Frisson,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1589.ts
+FR Cine+ Premier,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1588.ts
+FR Eurosport 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1608.ts
+FR Eurosport 2,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1609.ts
+FR Golf+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1613.ts
+FR Canal J,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1648.ts
+FR Chasse Et Peche,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1636.ts
+FR 13 RUE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1682.ts
+FR 6ter,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1623.ts
+FR AB 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1606.ts
+FR AB 3,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1678.ts
+FR Action,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1600.ts
+FR Animaux,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1637.ts
+FR ARTE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1584.ts
+FR Automoto,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1614.ts
+FR Cherie 25,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1625.ts
+FR CNews,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1661.ts
+FR Comedie+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1615.ts
+FR Comedy Central,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1656.ts
+FR Cstar,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1622.ts
+FR BFM Business,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1677.ts
+FR BFM TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1662.ts
+FR Boing,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1649.ts
+FR C8,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1617.ts
+FR Disney Channel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1645.ts
+FR Disney Junior,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1640.ts
+FR Gulli,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1652.ts
+FR Cartoon Network,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1646.ts
+FR Boomerang,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1643.ts
+FR Nickelodeon,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1647.ts
+FR Nickelodeon Junior,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1641.ts
+FR Piwi+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1639.ts
+FR Teletoon+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1644.ts
+FR Tiji,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1642.ts
+FR Toonami,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1689.ts
+FR Game One,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1659.ts
+FR Equidia,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1688.ts
+FR Discovery,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1681.ts
+FR Histoire,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1632.ts
+FR NatGeo Wild,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1631.ts
+FR National Geographic,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1630.ts
+FR Planet+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1627.ts
+FR Planet+ A&E,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1629.ts
+FR Planet+ CI,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1628.ts
+FR Polar+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1601.ts
+FR Infosport+,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1687.ts
+FR J-One,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1657.ts
+FR La Chaine Meteo,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1660.ts
+FR LCI,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1670.ts
+FR M6 Music,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1680.ts
+FR Mangas,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1658.ts
+FR MCM,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1655.ts
+FR MTV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1654.ts
+FR NRJ 12,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1621.ts
+FR NRJ Hits,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1679.ts
+FR OCS Chok,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1596.ts
+FR OCS City,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1595.ts
+FR OCS Geants,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1597.ts
+FR OCS Max,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1594.ts
+FR Paramount Channel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1599.ts
+FR Paris Premiere,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1616.ts
+FR RMC Decouverte,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1638.ts
+FR RMC Story,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1624.ts
+FR Toute Histoire,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1633.ts
+FR Sciencee T Vie TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1634.ts
+FR RTL 9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1605.ts
+FR Seasons,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1635.ts
+FR Serie Club,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1603.ts
+FR SYFY,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1676.ts
+FR TCM,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1598.ts
+FR TF 1 Series&Films,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1607.ts
+FR TFX,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1620.ts
+FR TMC,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1619.ts
+FR TV Breizh,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1604.ts
+FR TV5 Monde,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1626.ts
+FR Ushuaia TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1686.ts
+FR W9,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1618.ts
+FR Warner TV,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1602.ts
 
 🇩🇪德国,#genre#
-DE ZDF,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11708.ts
-DE DAS,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11709.ts
-DE HR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11719.ts
-DE BR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11718.ts
-DE 3SAT,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11710.ts
-DE ARTE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11713.ts
-DE kabel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11714.ts
-DE KIKA,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11712.ts
-DE MDR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11711.ts
+DE ZDF,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1708.ts
+DE DAS,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1709.ts
+DE HR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1719.ts
+DE BR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1718.ts
+DE 3SAT,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1710.ts
+DE ARTE,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1713.ts
+DE kabel,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1714.ts
+DE KIKA,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1712.ts
+DE MDR,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/1711.ts
 DE PRO 7,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11740.ts
 DE N24,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11726.ts
 DE Sat 1,http://iptvpro.pw:35451//live/加QQ群1067462089/368DTh521/11716.ts
