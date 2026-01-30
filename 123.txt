@@ -1148,7 +1148,7 @@ ALL TV K,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1974.ts
 
 
 🇺🇸美国,#genre#
-US CNN,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11125.ts
+US CNN,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1125.ts
 US CNN B,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11201.ts
 US CNN International,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11277.ts
 US FOX News,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11183.ts
