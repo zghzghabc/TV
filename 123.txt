@@ -1302,11 +1302,11 @@ US Latin NBC Universo,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/
 US Univision Network,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1431.ts
 
 🇨🇦加拿大,#genre#
-CA CP24,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11429.ts
-CA CP24 B,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11350.ts
-CA CBC News,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11359.ts
-CA CTV News,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11437.ts
-CA CBC Toronto,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11434.ts
+CA CP24,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1429.ts
+CA CP24 B,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1350.ts
+CA CBC News,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1359.ts
+CA CTV News,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1437.ts
+CA CBC Toronto,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/1434.ts
 CA CBC Montreal,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11458.ts
 CA CBC VAN,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11349.ts
 CA CBC Ottawa,http://iptvpro.pw:35451/live/加QQ群1067462089/368DTh521/11333.ts
