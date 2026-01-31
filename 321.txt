@@ -1018,7 +1018,7 @@ RT Documentary,https://f30.ubtvfans.com/live/rx5/2611/086901db8c056ddd15d3189758
 TV CENTR,https://f30.ubtvfans.com/live/rx3/2451/7e4611d7cb95a61c068f9ba9b6a3a8b8/index.m3u8
 ROSSIYA 1,http://108.181.58.227/live/rx1/2441/9fc59c1613389e38b79d8c7d36f31a80/index.m3u8
 MATCH TV,https://cbl.xrns3z8g.xyz/upload/films/2023-3-15/41-115-BL/index.m3u8
-私密頻道,#genre#
+私密頻道_5201,#genre#
 松視1,https://z88.ubtvfans.comm/live/rx3/402/363561d75eea338ad686444eaceeb58e/index.m3u8
 松視2,https://z88.ubtvfans.comm/live/rx3/403/cbd6289b64ffdb8cc08b16b3cac4c235/index.m3u8
 松視3,https://z88.ubtvfans.com/live/rx3/404/582ac886499e8123e3dd5aae9f1b85be/index.m3u8
@@ -1073,3 +1073,4 @@ jgirl,https://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/in
 麻豆,http://z88.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
 麻豆外番,http://z88.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
 韩国三级 1,https://z88.ubtvfans.com/live/rx5/3193/7f528f147b27a3979a735faaadf3c5f6/index.m3u8
+
