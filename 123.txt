@@ -85,40 +85,16 @@ CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 广东民生,http://go.bkpcp.top/mg/gdms
 
 🇨🇳其它,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
-无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰香港,http://r.jdshipin.com/yDoTN
+无线新闻,http://r.jdshipin.com/CkuBd
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://r.jdshipin.com/Voac4
+NOW直播台,http://rihou.cc:555/tv/[Mt]Now直播
+NOW体育台,http://rihou.cc:555/tv/[Mt]Now体育
+NOW新闻台,http://cdn.163189.xyz/163189/now
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
