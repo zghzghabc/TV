@@ -25,9 +25,13 @@ CETV4,http://go.bkpcp.top/mg/cetv4
 CGTN西语,http://go.bkpcp.top/mg/cgtne
 CGTN阿语,http://go.bkpcp.top/mg/cgtna
 CGTN法语,http://go.bkpcp.top/mg/cgtnf
-CGTN俄语,http://lxj.i234.me:1672/yn.php?type=back&id=606
-CGTN纪录,http://lxj.i234.me:1672/yn.php?type=back&id=603
-CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
 🇨🇳央视收费,#genre#
 风云音乐,http://baota.guangyuan.site:8188/udp/239.253.43.6:5146
@@ -89,6 +93,8 @@ CGTN英语,http://lxj.i234.me:1672/yn.php?type=back&id=600
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰香港,http://r.jdshipin.com/yDoTN
 无线新闻,http://r.jdshipin.com/CkuBd
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://r.jdshipin.com/Voac4
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
@@ -111,11 +117,10 @@ MYTV,http://iptv.4666888.xyz/iptv2A.php?id=29#http://iptv.4666888.xyz/iptv2A.php
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB星河,http://r.jdshipin.com/Voac4
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+
 
 
 
