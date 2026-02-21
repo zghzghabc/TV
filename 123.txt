@@ -97,6 +97,10 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 TVB星河,http://r.jdshipin.com/Voac4
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+NOW新闻,http://cdn.163189.xyz/163189/now
+VIUTV,https://cdn.163189.xyz/163189/viu
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+明珠台,http://r.jdshipin.com/ZQ4kN
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
