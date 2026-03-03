@@ -92,15 +92,28 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 无线新闻,http://r.jdshipin.com/CkuBd
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/GeWKr
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://r.jdshipin.com/jUx8K
+TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://r.jdshipin.com/TcKr2
+HOY77,http://r.jdshipin.com/sFw4S
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视卫星,http://r.jdshipin.com/QFhCq
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 NOW新闻,http://cdn.163189.xyz/163189/now
-VIUTV,https://cdn.163189.xyz/163189/viu
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
-明珠台,http://r.jdshipin.com/ZQ4kN
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
