@@ -113,6 +113,10 @@ HOY77,http://r.jdshipin.com/sFw4S
 澳视卫星,http://r.jdshipin.com/QFhCq
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 NOW新闻,http://cdn.163189.xyz/163189/now
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
