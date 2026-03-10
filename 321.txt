@@ -1,4 +1,4 @@
-🐬-新闻,#genre#
+新闻,#genre#
 TVB無線新聞NewsH265(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/3.ts
 TVB無線新聞台4K(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/8.ts
 TVB無線新聞直播台4K(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/9.ts
@@ -64,7 +64,7 @@ CNN(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/874.ts
 日テレNEWS24(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/871.ts
 BBCワールドニュース(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/873.ts
 
-🐬-体育,#genre#
+体育,#genre#
 FightSportsCH642(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/108.ts
 Now668(粵)CH668(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/112.ts
 Now668(國)CH668(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/113.ts
@@ -288,7 +288,7 @@ UKTNTSports3,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1556.
 UKEuroSport1,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1512.ts
 UKEuroSport2,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1511.ts
 
-🐬香港HK,#genre#
+香港,#genre#
 TVB翡翠台JADEH265(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2.ts
 TVBPlusH265(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/4.ts
 TVB明珠PearlH265(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/5.ts
@@ -391,7 +391,7 @@ NowGolf2CH683(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/
 NowGolf3CH684(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/116.ts
 SUPERSportsCH11(HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/48.ts
 
-🐬台湾TW,#genre#
+台湾,#genre#
 民视(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/156.ts
 中视(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/159.ts
 华视(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/158.ts
@@ -615,7 +615,7 @@ TVBS欢乐台H265(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789
 TLC旅遊生活台H265(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/432.ts
 TaiWanPlusH265(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/437.ts
 
-🐬大陆CN,#genre#
+大陆,#genre#
 CCTV-1(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/475.ts
 CCTV-11080P(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/533.ts
 CCTV-2(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/476.ts
@@ -724,7 +724,7 @@ CGTNFR(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/580.ts
 CGTNRU(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/581.ts
 NTD(CN),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/595.ts
 
-🐬海外中文,#genre#
+海外中文,#genre#
 TVB1(美),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/440.ts
 TVBJ1(美),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/441.ts
 TVBE(美),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/442.ts
@@ -750,7 +750,7 @@ TVB千禧经典台(马来)(HK),http://iptvpro.pw:35451/live/加QQ群995225115福
 东森超视美洲台(TW),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/472.ts
 中国电影频道,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/65108.ts
 
-🐬新加坡SG,#genre#
+新加坡,#genre#
 Channel5(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/598.ts
 Channel8(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/599.ts
 ChannelU(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/600.ts
@@ -788,7 +788,7 @@ tvN(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/628.ts
 Lifetime(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/627.ts
 TVB星河(中)(SG),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/607.ts
 
-🐬马来MY,#genre#
+马来,#genre#
 TV1(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/650.ts
 TV2(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/651.ts
 TV3(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/652.ts
@@ -883,7 +883,7 @@ ZeeTamil(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/738.t
 Adithya(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/732.ts
 AlSunnah(MY),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/781.ts
 
-🐬日本JP,#genre#
+日本,#genre#
 NHK総合東京NHKG(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/786.ts
 日本テレビNTV(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/787.ts
 テレビ東京TVTokyo(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/788.ts
@@ -973,7 +973,7 @@ BSフジFuji(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/8
 海外アニメ！カートゥーンネットワーク(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/864.ts
 KNTV(JP),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/883.ts
 
-🐬韩国KR,#genre#
+韩国,#genre#
 KBS1(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/886.ts
 KBS2(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/887.ts
 MBC(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/889.ts
@@ -1040,7 +1040,7 @@ YTN(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/929.ts
 Arirang(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/964.ts
 ALLTVK(KR),http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/974.ts
 
-🐬轮播LB,#genre#
+轮播,#genre#
 三国演义,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2337.ts
 西游记,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2336.ts
 西游记续,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2339.ts
@@ -1108,7 +1108,7 @@ stone,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2567.ts
 小岛浪吹,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2565.ts
 Memehongkong-1,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2581.ts
 
-🐬美国USA,#genre#
+美国,#genre#
 USCNN,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1125.ts
 USCNNB,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1201.ts
 USCNNInternational,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1277.ts
@@ -1262,7 +1262,7 @@ USNASA,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1189.ts
 USLatinNBCUniverso,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1198.ts
 USUnivisionNetwork,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1431.ts
 
-🐬加拿大CA,#genre#
+加拿大,#genre#
 CACP24,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1429.ts
 CACP24B,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1350.ts
 CACBCNews,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1359.ts
@@ -1389,7 +1389,7 @@ CATFO,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1388.ts
 CATVA,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1387.ts
 CAUnisTV,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1401.ts
 
-🐬英国UK,#genre#
+英国UK,#genre#
 UKBBCOne,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1487.ts
 UKBBCTwo,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1488.ts
 UKBBCThree,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1495.ts
@@ -1462,7 +1462,7 @@ UKTinyPop,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1516.ts
 UKZEETV,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1548.ts
 UKSET,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/1537.ts
 
-🐬成人ADULT_5201,#genre#
+成人_5201,#genre#
 潘多拉完美台,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/981.ts
 松视1台,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/984.ts
 松视2台,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/985.ts
@@ -1566,7 +1566,7 @@ RussiaRape,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2545.ts
 LittleCaprice,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2562.ts
 AmericaFamily,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/2546.ts
 
-🐬大陆成人_5201,#genre#
+大陆成人_5201,#genre#
 CN猴子探花,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/26633.ts
 邵氏艳情精选,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/26642.ts
 香港三级精选,http://iptvpro.pw:35451/live/加QQ群995225115福利/45789034/26641.ts
