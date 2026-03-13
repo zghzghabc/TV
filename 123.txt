@@ -94,8 +94,8 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 无线新闻,http://r.jdshipin.com/CkuBd
-中天新聞,https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
-寰宇新聞,https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
+中天新聞,https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=41d8a09d#https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=n3ee59a96
+寰宇新聞,https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=n43c34be8#https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=n7be4ad71
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
