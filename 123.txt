@@ -115,13 +115,15 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 广东民生,http://go.bkpcp.top/mg/gdms
 
 🇨🇳其它,#genre#
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07#http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰中文,http://r.jdshipin.com/cCCzW#http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
+http://rihou.cc:555/tv/[Pd]凤凰香港
 无线新闻,http://r.jdshipin.com/CkuBd
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-寰宇新聞,https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=n43c34be8#https://iptv.cqshushu.com/k-web/ku9/js/stv.js?id=n7be4ad71
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新闻
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
