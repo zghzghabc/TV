@@ -36,6 +36,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 🇨🇳卫视,#genre#
 云南卫视,http://go.bkpcp.top/mg/ynws
 江苏卫视,http://go.bkpcp.top/mg/jsws
+四川卫视,http://go.bkpcp.top/mg/scws
 浙江卫视,http://go.bkpcp.top/mg/zjws
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
@@ -49,7 +50,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 河北卫视,http://go.bkpcp.top/mg/hbws
 河南卫视,http://go.bkpcp.top/mg/hnws
 江西卫视,http://go.bkpcp.top/mg/jxws
-四川卫视,http://go.bkpcp.top/mg/scws
 重庆卫视,http://go.bkpcp.top/mg/cqws
 贵州卫视,http://go.bkpcp.top/mg/gzws
 湖北卫视,http://go.bkpcp.top/mg/hubws
