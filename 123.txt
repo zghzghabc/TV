@@ -17,8 +17,8 @@ CCTV14,http://rihou.cc:555/tv/[mg]CCTV-14
 CCTV15,http://rihou.cc:555/tv/[mg]CCTV-15
 CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16
 CCTV17,http://rihou.cc:555/tv/[mg]CCTV-17
-cct4欧洲,http://rihou.cc:555/tv/[mg]cct4欧洲
-cct4美洲,http://rihou.cc:555/tv/[mg]cct4美洲
+CCTV4欧洲,http://rihou.cc:555/tv/[mg]cct4欧洲
+CCTV4美洲,http://rihou.cc:555/tv/[mg]cct4美洲
 CGTN西,http://rihou.cc:555/tv/[mg]CGTN-西
 CGTN阿,http://rihou.cc:555/tv/[mg]CGTN-阿
 CGTN法,http://rihou.cc:555/tv/[mg]CGTN-法
