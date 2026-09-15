@@ -6,7 +6,7 @@ CCTV4,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5+,http://rihou.cc:555/tv/[mg]CCTV-5+
 CCTV6,http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV07,http://rihou.cc:555/tv/[mg]CCTV-07
+CCTV7,http://rihou.cc:555/tv/[mg]CCTV-07
 CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV9,http://rihou.cc:555/tv/[mg]CCTV-09
 CCTV10,http://rihou.cc:555/tv/[mg]CCTV-10
