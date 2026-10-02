@@ -123,108 +123,123 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 
 🇭🇰香       港,#genre#
-TVB翡翠台JADE,http://iptvpro.pw:35451//live/7272767419/2683863119/2.ts
-TVBPlus,http://iptvpro.pw:35451//live/7272767419/2683863119/4.ts
-TVB明珠Pearl,http://iptvpro.pw:35451//live/7272767419/2683863119/5.ts
-ViuTV,http://iptvpro.pw:35451//live/7272767419/2683863119/6.ts
-TVB翡翠台JADE4K,http://iptvpro.pw:35451//live/7272767419/2683863119/7.ts
-TVBPlus4K,http://iptvpro.pw:35451//live/7272767419/2683863119/11.ts
-TVB明珠台Pearl4K,http://iptvpro.pw:35451//live/7272767419/2683863119/10.ts
-TVB翡翠台JADE,http://iptvpro.pw:35451//live/7272767419/2683863119/12.ts
-TVBPlusCH082,http://iptvpro.pw:35451//live/7272767419/2683863119/14.ts
-TVBPlusCH082(低延時),http://iptvpro.pw:35451//live/7272767419/2683863119/15.ts
-TVB明珠台PearlCH084,http://iptvpro.pw:35451//live/7272767419/2683863119/16.ts
-ViuTVSixCH096,http://iptvpro.pw:35451//live/7272767419/2683863119/32.ts
-ViuTVCH099,http://iptvpro.pw:35451//live/7272767419/2683863119/49.ts
-鳳凰衛視,http://iptvpro.pw:35451//live/7272767419/2683863119/18.ts
-鳳凰香港,http://iptvpro.pw:35451//live/7272767419/2683863119/19.ts
-鳳凰衛視電影台,http://iptvpro.pw:35451//live/7272767419/2683863119/20.ts
-HOYTV(開電視),http://iptvpro.pw:35451//live/7272767419/2683863119/21.ts
-RTHK31,http://iptvpro.pw:35451//live/7272767419/2683863119/24.ts
-RTHK32,http://iptvpro.pw:35451//live/7272767419/2683863119/25.ts
-RTHK33CCTV1,http://iptvpro.pw:35451//live/7272767419/2683863119/26.ts
-RTHK34CGTN記錄,http://iptvpro.pw:35451//live/7272767419/2683863119/27.ts
-RTHK35CGTN,http://iptvpro.pw:35451//live/7272767419/2683863119/28.ts
-Now直播台CH331,http://iptvpro.pw:35451//live/7272767419/2683863119/31.ts
-NowViu劇集台CH102,http://iptvpro.pw:35451//live/7272767419/2683863119/33.ts
-Now華劇台(粵)CH105,http://iptvpro.pw:35451//live/7272767419/2683863119/34.ts
-Now華劇台(國)CH105,http://iptvpro.pw:35451//live/7272767419/2683863119/35.ts
-NowJelli紫金CH108,http://iptvpro.pw:35451//live/7272767419/2683863119/36.ts
-HBOCH115,http://iptvpro.pw:35451//live/7272767419/2683863119/37.ts
-MOVIEMOVIECH116,http://iptvpro.pw:35451//live/7272767419/2683863119/38.ts
-CinemaxCH118,http://iptvpro.pw:35451//live/7272767419/2683863119/39.ts
-Now爆穀星影台CH138,http://iptvpro.pw:35451//live/7272767419/2683863119/40.ts
-Now爆穀台CH133,http://iptvpro.pw:35451//live/7272767419/2683863119/41.ts
-美亞電影台(粵)CH201,http://iptvpro.pw:35451//live/7272767419/2683863119/42.ts
-美亞電影台(國)CH202,http://iptvpro.pw:35451//live/7272767419/2683863119/43.ts
-中國電影頻道香港版CH204,http://iptvpro.pw:35451//live/7272767419/2683863119/44.ts
-POPC電影頻道CH206,http://iptvpro.pw:35451//live/7272767419/2683863119/45.ts
-KIXCH304,http://iptvpro.pw:35451//live/7272767419/2683863119/46.ts
-LoveNature4KCH403,http://iptvpro.pw:35451//live/7272767419/2683863119/69.ts
-GlobalTrekerCH407,http://iptvpro.pw:35451//live/7272767419/2683863119/70.ts
-DreamWorks(粵)CH440,http://iptvpro.pw:35451//live/7272767419/2683863119/73.ts
-DreamWorks(國)CH440,http://iptvpro.pw:35451//live/7272767419/2683863119/74.ts
-卡通頻道(粵)CNCH443,http://iptvpro.pw:35451//live/7272767419/2683863119/75.ts
-卡通頻道(國)CNCH443,http://iptvpro.pw:35451//live/7272767419/2683863119/76.ts
-BBCCBeebies(粵)CH447,http://iptvpro.pw:35451//live/7272767419/2683863119/77.ts
-DaVinci達文西頻道CH460,http://iptvpro.pw:35451//live/7272767419/2683863119/78.ts
-ROCKEntertainmentCH501,http://iptvpro.pw:35451//live/7272767419/2683863119/71.ts
-ROCKActionCH502,http://iptvpro.pw:35451//live/7272767419/2683863119/72.ts
-AXNCH503,http://iptvpro.pw:35451//live/7272767419/2683863119/79.ts
-AnimaxCH504,http://iptvpro.pw:35451//live/7272767419/2683863119/80.ts
-tvNCH505,http://iptvpro.pw:35451//live/7272767419/2683863119/81.ts
-FashionBoxCH603,http://iptvpro.pw:35451//live/7272767419/2683863119/84.ts
-MezzoLiveCH604,http://iptvpro.pw:35451//live/7272767419/2683863119/85.ts
-鳳凰中文台CH610,http://iptvpro.pw:35451//live/7272767419/2683863119/87.ts
-鳳凰香港台CH612,http://iptvpro.pw:35451//live/7272767419/2683863119/86.ts
-TVBSUPER-FREE(粵)CH01,http://iptvpro.pw:35451//live/7272767419/2683863119/47.ts
-TVBSUPER-FREE(國)CH001,http://iptvpro.pw:35451//live/7272767419/2683863119/50.ts
-TVB黃金翡翠台CH080,http://iptvpro.pw:35451//live/7272767419/2683863119/52.ts
-TVB千禧經典台CH086,http://iptvpro.pw:35451//live/7272767419/2683863119/53.ts
-TVB亞洲劇台(原聲)CH087,http://iptvpro.pw:35451//live/7272767419/2683863119/54.ts
-TVB亞洲劇台(粵)CH087,http://iptvpro.pw:35451//live/7272767419/2683863119/55.ts
-TVB華語劇台(粵)CH089,http://iptvpro.pw:35451//live/7272767419/2683863119/56.ts
-TVB華語劇台(國)CH089,http://iptvpro.pw:35451//live/7272767419/2683863119/57.ts
-TVB黃金華劇台(粵)CH090,http://iptvpro.pw:35451//live/7272767419/2683863119/58.ts
-TVB黃金華劇台(國)CH090,http://iptvpro.pw:35451//live/7272767419/2683863119/59.ts
-TVB娛樂新聞台CH091,http://iptvpro.pw:35451//live/7272767419/2683863119/60.ts
-TVB戲曲台CH098,http://iptvpro.pw:35451//live/7272767419/2683863119/61.ts
-SUPERKidsChannelCH100,http://iptvpro.pw:35451//live/7272767419/2683863119/62.ts
-ZooMooCH101,http://iptvpro.pw:35451//live/7272767419/2683863119/63.ts
-尼克兒童NickelodeonCH104,http://iptvpro.pw:35451//live/7272767419/2683863119/64.ts
-TVB粵語片台CH200,http://iptvpro.pw:35451//live/7272767419/2683863119/65.ts
-ThrillCH202,http://iptvpro.pw:35451//live/7272767419/2683863119/66.ts
-天映經典(粵)CCMCH203,http://iptvpro.pw:35451//live/7272767419/2683863119/67.ts
-天映經典(國)CCMCH203,http://iptvpro.pw:35451//live/7272767419/2683863119/68.ts
-天映頻道(粵)CM,http://iptvpro.pw:35451//live/7272767419/2683863119/124.ts
-天映頻道(國)CM,http://iptvpro.pw:35451//live/7272767419/2683863119/125.ts
-TVB功夫台(粵),http://iptvpro.pw:35451//live/7272767419/2683863119/118.ts
-TVB功夫台(國),http://iptvpro.pw:35451//live/7272767419/2683863119/119.ts
-TVB星河(國),http://iptvpro.pw:35451//live/7272767419/2683863119/121.ts
-TVB星河(粵),http://iptvpro.pw:35451//live/7272767419/2683863119/120.ts
-TVBPearlDrama明珠劇集台,http://iptvpro.pw:35451//live/7272767419/2683863119/117.ts
-TVB生活台,http://iptvpro.pw:35451//live/7272767419/2683863119/126.ts
-SUPER獎門人CH02,http://iptvpro.pw:35451//live/7272767419/2683863119/127.ts
-SUPEREYTCH03,http://iptvpro.pw:35451//live/7272767419/2683863119/128.ts
-SUPER識食CH04,http://iptvpro.pw:35451//live/7272767419/2683863119/129.ts
-SUPER識歎CH05,http://iptvpro.pw:35451//live/7272767419/2683863119/130.ts
-SUPERMusicCH06,http://iptvpro.pw:35451//live/7272767419/2683863119/131.ts
-SUPER金曲CH07,http://iptvpro.pw:35451//live/7272767419/2683863119/132.ts
-SUPER煲劇CH08,http://iptvpro.pw:35451//live/7272767419/2683863119/133.ts
-SUPER劇場CH09,http://iptvpro.pw:35451//live/7272767419/2683863119/134.ts
-SUPER話當年CH10,http://iptvpro.pw:35451//live/7272767419/2683863119/135.ts
-星空衛視,http://iptvpro.pw:35451//live/7272767419/2683863119/145.ts
-香港C＋頻道,http://iptvpro.pw:35451//live/7272767419/2683863119/147.ts
-ChannelV音樂台,http://iptvpro.pw:35451//live/7272767419/2683863119/143.ts
-澳視澳門台,http://iptvpro.pw:35451//live/7272767419/2683863119/150.ts
-澳視衛星台,http://iptvpro.pw:35451//live/7272767419/2683863119/151.ts
-澳門蓮花衛視,http://iptvpro.pw:35451//live/7272767419/2683863119/148.ts
-澳門體育台,http://iptvpro.pw:35451//live/7272767419/2683863119/152.ts
-NowSportsPlusCH680,http://iptvpro.pw:35451//live/7272767419/2683863119/114.ts
-NowGolf2CH683,http://iptvpro.pw:35451//live/7272767419/2683863119/115.ts
-NowGolf3CH684,http://iptvpro.pw:35451//live/7272767419/2683863119/116.ts
-SUPERSportsCH11,http://iptvpro.pw:35451//live/7272767419/2683863119/48.ts
-
+凤凰中文,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=20d2d96308e5b86aa632cdb8113b2313;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+凤凰资讯,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c23cb91e28540bf120c96780829055cc;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+凤凰香港,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+凤凰澳洲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3cc83ada5a8d350182f34b3515400dbf;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+凤凰电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3ea54960d444c5950872b58000eeef4b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-无线新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=202dd6cb2fa10b757f27371ed2308931;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-无线新闻(北美),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=38f4e6844d506788074317f9c86ab525;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB_Plus,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=86ef0c139b7b3b2a8063f931d48586ba;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=56ef2938fa095b9f57c44c7918d7ba62;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠(马来),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9150accbde417e7620852691b50f2f40;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠(新加坡),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=66521bb3ce37a0c095bfeb825326b3e7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠(越南),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=81650d4099ca66f4a2881e6bfe2a8f21;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-明珠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1b6b150766afa778761938542d893f52;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=feb979fb08606f46fc3ef3dd36967632;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-华丽翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b654513ab752f7a72e6445fcb756a74f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-娱乐新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=731b14933ec05b7bed938ab0e2489f30;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-黄金华剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=96e0bcab4e9aa165d4c5ef690762e0b0;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-千禧经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=293ac51056235368be698c698197b3e9;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-生活,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=98794fafab0c7b0e92896a344adcc2ed;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2dae4813e183ec35e6e18dab2c93bcdd;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-亚洲剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=db79880374fcfcc4bd727642413a6443;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-华语剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6315b61b0ae7756c01210d79d527f53a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-粤语片,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=363b54c3886040017d7fa5bb29ad0335;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-粤语片(澳洲),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=524b79358dbeca9f89184cbbe2e64720;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-戏曲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=36a506ea249cb8cf3fed56dbf6b21cd7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠一台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e9e1fe6c5259651029eda4e899282675;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8230da2d607ec3e66b388b2366063a9f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-明珠剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4b942eaae152191a2ac82ae4dd915851;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-黄金翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=abc050755794b4ef300af19d88be2c0a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-翡翠综合,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=61022b25a00c6d2ee5e78ad604544308;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-星河(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=baa86b01502cb973558cfabd6a59467b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-星河(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e4e7401dba979b89d746e5317393c046;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-武侠(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=15f9404076895c9e3b6bfd3cbe86dea8;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-武侠(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5fdc3b112eb50e24679490ade22072ba;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-J1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d545441e4a8c50bfa154ae6d83890d4f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-体育,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d077ab6bac9d0faf01012511d0949390;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-奖门人,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7d01960720b25de87c9ecb02a949ead4;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-识叹,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=77b512f52931bcf2e0ec8ff9336059b1;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-煲剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ca9e2dabb91b4aeefed087b70bc7765a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-剧场,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=da25ea7ffb5953f952464bd6d4b943f2;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-话当年,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=334ff1e9625df561813dc0a3e67ddedb;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-金曲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=08df2eb133165241c34fafe3ddbe1a3e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-识食,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b1e3d260c95eb4999712bc088a7f0f07;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-EYT,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=461ac1c2e255cdd0c66901d5cd3017b2;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-少儿,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a5b5f50afbb5501aeb01f30a148af93;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-SUPER_FREE,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=61d23e294d8038887d8b3ce71aafb810;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVB-Hands Up,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8c9cb00619dd969e675f4a1026aa9bbb;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+无线18台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=75438d9a1a0cf5c132eff84aa5beaf85;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+有线18台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0dd70c0076bc4b539b888a221ff5fc88;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+赛马88台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3eb95436e6f717e47fbc779e002480d5;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+ViuTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4f0dd8b20a195bdf2dcf5540f665ee0b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+ViuTV6,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9c90ad0f35197d9dee6694009f60414a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Viu剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8e4592eeaa5212ed3558bd1b24b6d951;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HOY76,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=67d28b9315325d8881c01ef633a0ad6c;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HOY77,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=647512d90b22fd7919c8c407b4a91c1c;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HOY78,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dd78890aa3ba16e1143b2eede2303a00;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=13aec09c93a3bc1cf7503a2c2634b271;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-财经,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=24439004f10b68b0961ba1adceb2df59;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-直播,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2776108270e95b70f36a2bb1110f30bd;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-华剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ab89a61ded743371184f508a167692fe;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7cca5b6cdce53f57946476948f1fdb28;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-Jelli资金国际,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7569632a8a0bde54f2f01310d2d74063;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-星影(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7a7990063114003ced239629688e9d15;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-星影(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b8efa23b529264b8040949465f04898e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-爆谷(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=42166abbf33965f3f33ea8cd1d443d92;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now-爆谷(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=22e84fe145342b4dbfe6e06e044ed857;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports Prime 体育,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=64432f39d1ad3c39ef231b4f07ee9b03;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 英超,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=85bad99b0e347951fffa247f64f12d2d;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sprots 精选,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a105ff130e79ceed8f01630accedceef;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 體育精選,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e5c9c36a086ead16e5a98e4f7640e1f6;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now 668,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d330ae8a7fa51410754bcc3347652feb;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=46633d235259c414fc67f2e6506fbde9;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 2,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e72ab894acf0ac5baedf6d023ff4924e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 3,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=da0c2fc2904cc89f66a029ddefc3add5;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 4,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=983489f3ab8e158f4aec573121c01c39;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 5,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=cfb7bf59bc93ba505fb6e7634031104e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 6,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=856a89dcbccbdb05f0bd95c5a682df7b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports 7,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a3947a2d54bf49930a5ed2cdaaebc92a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Now Sports Plus,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6638dfa2712f37703a77b83866e1d9fc;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+MUTV曼聯電視頻道,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=13f4357a78ee73c82fecc0d26d1147ef;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+mySUPER直播足球2台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a6db06446cc6e78d8d0a5f9b83fad479;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+mySUPER直播足球3台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=430266ab1937cc2fe1d57f6c3aa6a6ba;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+mySUPER直播足球4台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=fa92b569e0679a8583ac171a94ea30a0;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+mySUPER直播足球5台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=000058a628e9f24810408e1573383ab0;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+mySUPER直播足球6台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3c7d4c54e8234de577b933e388130821;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+RTHK31,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e48c6e66705ee6d3d9a66e7f303d805a;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+RTHK32,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d3fd85166b5abb79502d872ec49b1f61;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+RTHK33,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5d52b565d7c12baa5f86be5ebd227f02;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+RTHK34,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=bee7ea565f5c9458987f1893e30e056f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+RTHK35,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dc6784c67a7e93f9f341dcf67ff8d631;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+爱奇艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c9ccbdcefa215dcf80094862d202f7f4;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+天映频道,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=cbae703675d7c3c04777f76229db0fb9;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+天映经典1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=95fbe855a1df5dc78b38a61bc64e7e9e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+天映经典2,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5ae06ad6c6214b963861cf04dd63e460;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+美亚电影(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=667c693e234bc614bcb57ed6c940caca;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+美亚电影(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1acd7da61bf72c10efd6d4fe9d44e494;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+美亚电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8467323d62ebf5ab353627d4e186969f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+中国电影频道,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dfc5e2217c10d2abe2ed38e3c2ccde04;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+邵氏武侠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6202a49c6896f32efb42821cfa2ba3ce;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+邵氏电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c80cdce50cefc9391211e3c8ac6f8f7f;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HBO,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=509e5f41146e278f9eab1ddaceb34515;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HBO原创巨献,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3c728c7f54cc6b9fa342949c3a6478db;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HBO强档巨献,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7c7fb269298f5396d3f5662a39e72ef6;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HBO温馨家庭,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=628635c5c86e8588f6661252abf11688;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+PopC电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1575ff09dde688a4e6a2b0f2051174de;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+ROCK Action摇滚电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=810259aa9962c10c2191fb1dc3693044;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+ROCK Extreme摇滚极限,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=99d9e85774c49cc3dc1116ab351da4d9;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+CINEMAX HK,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ad6b2538605f45e087c82abc14fdb1e2;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+HKzooMoo,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7c316d7fdc038c9d3d20038eecdb9573;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+AXN,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=042dba4d2faaa29cd2fa4c0125416d25;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+DMAX,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3357426c5ec8bd0e0419c1f8d5a9937e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+DiscoveryAsia,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=78bf2e342a29404a090fbb90d718c9a1;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+Thrill,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a5f799ea7465e196f726736ff8551980;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+LoveNature4K(HK),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=71a121520a24fd15401c0f90625981e1;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+星空卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=bc420cf8383e85e20fbd61ff9d072254;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+MOVIEMOVIE,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=60b6ec2b638e2c9b5c275ab93d1eb6fd;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+TVN,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=acf93349a496b825bdde306eb527d1e7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 
 
 🇨🇳台       湾,#genre#
