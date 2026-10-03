@@ -93,6 +93,7 @@ CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
 
 🇨🇳其       它,#genre#
+1,webview://https://tv.cctv.com/live/cctveurope/index.shtml?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.30
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
