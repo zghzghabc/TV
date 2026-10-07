@@ -196,7 +196,8 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-
+1,p3p://108.181.20.159:20645/5fe09fec000ac0127462c4ac6b1f16a3
+2,p3p://108.181.20.159:20645/6146918a000a6ec0ea89b8904d520fbf
 
 🇨🇳台       湾,#genre#
 寰宇新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=74dff16b9a15e132f3f6f1e492798fdc;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
