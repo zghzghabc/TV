@@ -198,6 +198,7 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 1,p3p://108.181.20.159:20645/5fe09fec000ac0127462c4ac6b1f16a3
+2,p3p://108.181.20.159:20645/6146918a000a6ec0ea89b8904d520fbf
 
 
 
