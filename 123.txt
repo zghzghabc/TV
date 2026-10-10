@@ -35,6 +35,7 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 
 🇨🇳卫       视,#genre#
 云南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190402
+香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8$LR•IPV4
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
 北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
