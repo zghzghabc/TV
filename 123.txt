@@ -201,11 +201,7 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 🇭🇰香       港,#genre#
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
-1,http://zmgd.zyrnet.com:8888/hls/001/index.m3u8$郑州酒店
-2,http://zmgd.zyrnet.com:8888/hls/002/index.m3u8$郑州酒店
-3,http://zmgd.zyrnet.com:8888/hls/003/index.m3u8$郑州酒店
-4,http://zmgd.zyrnet.com:8888/hls/004/index.m3u8$郑州酒店
-5,http://zmgd.zyrnet.com:8888/hls/005/index.m3u8$郑州酒店
+
 
 
 
