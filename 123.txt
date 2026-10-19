@@ -81,7 +81,7 @@ CETV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&channelld=5
 延边卫视,webview://https://srs.iyb983.cn/video/CYS/index.m3u8
 农林卫视,webview://http://live.snrtv.com/nl
-康巴卫视,webview://https://www.kangbatv.com/zb_22587/
+康巴卫视,https://pluslive.kangbatv.com/1/sd/live.m3u8?auth_key=1792438913-0-0-83030b082a5472a71afe4c059da76a4a
 海峡卫视,webview://https://live.fjtv.net/hxtv/
 
 
