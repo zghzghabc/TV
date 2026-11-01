@@ -228,7 +228,8 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 
 🇨🇳台       湾,#genre#
-东森新闻,https://hd.rip/stream/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3&e=1793558502&s=d52bf3adeb783e679706d9e4a6c48a58
+东森新闻,https://hd.rip/stream/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3&e=1793559125&s=457f36400bf8d797b198f0fec41e14ff
+东森财经,https://hd.rip/stream/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371&e=1793558937&s=9e8b8b05d218b4c78eef824de1d297da
 
 
 
