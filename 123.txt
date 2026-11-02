@@ -242,6 +242,16 @@ Indonesia Music TV,video://https://hd.rip/?ch=106
 🇨🇳台       湾,#genre#
 东森新闻,video://https://hd.rip/?ch=164
 TVBS新闻台,video://https://hd.rip/?ch=197
+中天新闻,video://https://hd.rip/?ch=48
+东森新闻,video://https://hd.rip/?ch=67
+东森财经,video://https://hd.rip/?ch=64
+台视新闻,video://https://hd.rip/?ch=126
+中视新闻,video://https://hd.rip/?ch=150
+年代新闻,video://https://hd.rip/?ch=109
+民视新闻,video://https://hd.rip/?ch=79
+非凡新闻,video://https://hd.rip/?ch=74
+中天娱乐,video://https://hd.rip/?ch=48
+东森幼幼,video://https://hd.rip/?ch=147
 
 
 
