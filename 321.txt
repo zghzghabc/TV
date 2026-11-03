@@ -228,123 +228,129 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 
 🇨🇳台       湾,#genre#
-台視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1047
-台視新聞台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1107
-台視財經台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1108
-台視綜合台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1109
-中視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1048
-中視新聞台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1115
-華視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1049
-華視教育體育文化台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1119
-華視新聞資訊台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1120
-民視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1050
-民視第一台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1103
-民視新聞台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1104
-民視台灣台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1105
-公視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1201
-公視台語台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1111
-公視兒少台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1113
-人間衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1198
-大愛電視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1216
-好消息頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1231
-Trace Sport Stars(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1003
-DISCOVERY(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1002
-旅遊生活(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1005
-動物星球(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1004
-亞洲旅遊(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1219
-momo親子台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1007
-東森幼幼HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1008
-ANIMAX 卡通動畫頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1060
-公視兒少台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=custom29
-緯來綜合HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1044
-八大第一HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1043
-八大綜合HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1019
-三立台灣HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1021
-三立都會HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1020
-韓國娛樂台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1024
-東森綜合HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1041
-超視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1180
-中天綜合HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1022
-中天娛樂HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1023
-東風衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1195
-MUCH TV(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1189
-東森戲劇HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1042
-八大戲劇HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1057
-TVBS歡樂HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1018
-緯來戲劇(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1186
-JET綜合(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1009
-國興衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1010
-中視菁采台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1235
-緯來日本HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1026
-Taiwan Plus(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1238
-年代新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1192
-東森新聞HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1014
-中天新聞HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1015
-民視新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1204
-三立新聞HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1016
-TVBS新聞HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1051
-TVBS HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1254
-非凡新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1013
-非凡商業(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1012
-東森財經HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1017
-寰宇新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1222
-壹新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1242
-CNBC(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1063
-Bloomberg News(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1066
-NHK WORLD PREMIUM(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1027
-鏡電視新聞台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1031
-好萊塢電影HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1025
-緯來電影HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1183
-NHK WORLD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1245
-HBO(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1029
-AXN(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1054
-CINEMAX HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1030
-AMC 電影台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1032
-寵物頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1040
-緯來育樂HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1045
-緯來體育HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1011
-博斯運動二(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1225
-momo 綜合台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1248
-DAZN 1(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1069
-DAZN 2(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1072
-客家電視台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1121
-原住民族電視台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1122
-國會頻道1(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1116
-博斯高球一台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1117
-澳門廣視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1123
-義大利台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1124
-法蘭西24小時新聞法語頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1125
-新加坡亞洲新聞台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1126
-卡達半島電視臺國際頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1129
-TV 5 Monde(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1140
-Isaac TV-基督教衛星電視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1131
-Joo Music(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1132
-DW-TV-德國之聲(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1133
-NHK World(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1134
-阿里郎電視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1142
-法國時裝頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1138
-路透社新聞(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1139
-廈門衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1033
-CCTV4-中央衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1034
-海峽衛視HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1035
-浙江衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1036
-東方衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1037
-湖南衛視(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1038
-鳯凰衛視資訊(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1210
-鳯凰衛視中文(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1213
-東森新聞HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1257
-好萊塢電影HD(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1260
-NHK BS1(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1155
-NHK BSP(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1154
-尼克兒童頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1255
-nickjr.小尼克(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1266
-博斯運動一台(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1261
-達文西頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1264
-DreamWorks(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1271
-搖滾電影頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1274
-探索世界頻道(爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1277
-搖滾娛樂頻道 (爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1283
-愛自然頻道 (爬虫),http://hinet.magicluweibo1.hz.cz:11601/php/mmm/all_mqitv.php?host=61.63.19.241:1888&proxy=true&id=live1286
+TVBS新闻,webview://https://hd.rip/?ch=197
+中天新闻,webview://https://hd.rip/?ch=49
+东森新闻,webview://https://hd.rip/?ch=67
+东森财经,webview://https://hd.rip/?ch=64
+台视新闻,webview://https://hd.rip/?ch=126
+中视新闻,webview://https://hd.rip/?ch=150
+中视新闻,webview://https://hd.rip/?ch=31
+年代新闻,webview://https://hd.rip/?ch=109
+民视新闻,webview://https://hd.rip/?ch=79
+非凡新闻,webview://https://hd.rip/?ch=74
+寰宇新闻,webview://https://hd.rip/?ch=414
+中天娱乐,webview://https://hd.rip/?ch=48
+中天综合,webview://https://hd.rip/?ch=50
+东森幼幼,webview://https://hd.rip/?ch=147
+东森电影,webview://https://hd.rip/?ch=66
+东森洋片,webview://https://hd.rip/?ch=69
+东森戏剧,webview://https://hd.rip/?ch=65
+东森综合,webview://https://hd.rip/?ch=178
+
+TVBS,webview://https://hd.rip/?ch=129
+TVBS精采,webview://https://hd.rip/?ch=96
+TVBS欢乐,webview://https://hd.rip/?ch=131
+Singapore Vasantham,webview://https://hd.rip/?ch=133
+台视,webview://https://hd.rip/?ch=125
+台视综合,webview://https://hd.rip/?ch=189
+中视,webview://https://hd.rip/?ch=148
+中视,webview://https://hd.rip/?ch=149
+民视,webview://https://hd.rip/?ch=78
+民视,webview://https://hd.rip/?ch=79
+民视台湾,webview://https://hd.rip/?ch=182
+公视,webview://https://hd.rip/?ch=52
+华视,webview://https://hd.rip/?ch=173
+AXN台湾,webview://https://hd.rip/?ch=8
+Astro Awani,webview://https://hd.rip/?ch=7
+亚洲旅游,webview://https://hd.rip/?ch=6
+动物星球,webview://https://hd.rip/?ch=4
+大爱1,webview://https://hd.rip/?ch=53
+真理台,webview://https://hd.rip/?ch=183
+
+
+
+爱尔达综合,webview://https://hd.rip/?ch=60
+爱尔达1,webview://https://hd.rip/?ch=62
+爱尔达2,webview://https://hd.rip/?ch=61
+爱尔达3,webview://https://hd.rip/?ch=365
+爱尔达4,webview://https://hd.rip/?ch=108
+博斯运动1,webview://https://hd.rip/?ch=26
+博斯运动2,webview://https://hd.rip/?ch=27
+博斯高球1,webview://https://hd.rip/?ch=24
+博斯高球2,webview://https://hd.rip/?ch=164
+博斯网球,webview://https://hd.rip/?ch=165
+探索亚洲,webview://https://hd.rip/?ch=58
+
+CN卡通频道,webview://https://hd.rip/?ch=106
+
+阿里郎Arirang,webview://https://hd.rip/?ch=155
+八大综合,webview://https://hd.rip/?ch=158
+东森综合,webview://https://hd.rip/?ch=178
+华视CTS,webview://https://hd.rip/?ch=173
+民视台湾台,webview://https://hd.rip/?ch=182
+
+
+
+HBO 强档巨献,webview://https://hd.rip/?ch=85
+HBO,webview://https://hd.rip/?ch=86
+HBO 家庭,webview://https://hd.rip/?ch=81
+DAZN 1,webview://https://hd.rip/?ch=82
+BBC Lifestyle,webview://https://hd.rip/?ch=161
+CBS News,webview://https://hd.rip/?ch=169
+时尚台FTV,webview://https://hd.rip/?ch=73
+
+
+EYETV旅游,webview://https://hd.rip/?ch=71
+EYETV戲劇,webview://https://hd.rip/?ch=72
+
+
+
+
+
+
+
+无线翡翠台 (台湾),webview://https://hd.rip/?ch=92
+东森综合,webview://https://hd.rip/?ch=178
+三立都会,webview://https://hd.rip/?ch=116
+三立台湾,webview://https://hd.rip/?ch=117
+三立综合,webview://https://hd.rip/?ch=119
+八大第一,webview://https://hd.rip/?ch=14
+八大戏剧,webview://https://hd.rip/?ch=12
+Astro 欢喜台,webview://https://hd.rip/?ch=89
+华艺中文,webview://https://hd.rip/?ch=200
+SkySports Cricket,webview://https://hd.rip/?ch=122
+TLC,webview://https://hd.rip/?ch=123
+TLC,webview://https://hd.rip/?ch=124
+Malaysia TV8,webview://https://hd.rip/?ch=127
+Discovery科学,webview://https://hd.rip/?ch=56
+CNN,webview://https://hd.rip/?ch=46
+CNBC,webview://https://hd.rip/?ch=45
+CNA,webview://https://hd.rip/?ch=44
+CINEMAX 电影台,webview://https://hd.rip/?ch=43
+罪案侦辑 Crime Investigation,webview://https://hd.rip/?ch=42
+Singapore Channel U,webview://https://hd.rip/?ch=40
+Singapore Channel 8,webview://https://hd.rip/?ch=39
+Singapore Channel 5,webview://https://hd.rip/?ch=38
+Bloomberg,webview://https://hd.rip/?ch=23
+BBC News,webview://https://hd.rip/?ch=20
+BC Earth,webview://https://hd.rip/?ch=18
+ABC News,webview://https://hd.rip/?ch=2
+Love Nature,webview://https://hd.rip/?ch=3
+Malaysia TV9,webview://https://hd.rip/?ch=426
+探索频道 DMAX,webview://https://hd.rip/?ch=9
+
+
+
+
+
+Viu 6,webview://https://hd.rip/?ch=139
+Viu TV,webview://https://hd.rip/?ch=137
+纬来综合,webview://https://hd.rip/?ch=424
+纬来日本,webview://https://hd.rip/?ch=134
+纬来电影,webview://https://hd.rip/?ch=135
+纬来体育,webview://https://hd.rip/?ch=136
+龙华戏剧,webview://https://hd.rip/?ch=191
+三立戏剧,webview://https://hd.rip/?ch=193
 
 
 
