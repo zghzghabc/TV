@@ -222,6 +222,23 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 🇭🇰香       港,#genre#
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
+凤凰香港,vwebview://https://hd.rip/?ch=87
+凤凰资讯,vwebview://https://hd.rip/?ch=111
+凤凰中文,webview://https://hd.rip/?ch=112
+无线新闻,webview://https://hd.rip/?ch=90
+无线 TVB Plus,webview://https://hd.rip/?ch=91
+无线翡翠 (香港),webview://https://hd.rip/?ch=141
+无线明珠,webview://https://hd.rip/?ch=110
+美亚电影,webview://https://hd.rip/?ch=104
+龙华偶像,webview://https://hd.rip/?ch=98
+天映经典,webview://https://hd.rip/?ch=37
+天映频道,webview://https://hd.rip/?ch=36
+好莱坞电影,webview://https://hd.rip/?ch=184
+龙祥时代,webview://https://hd.rip/?ch=32
+RTHK3,webview://https://hd.rip/?ch=115
+Astro QJ,webview://https://hd.rip/?ch=113
+Indonesia Music TV,webview://https://hd.rip/?ch=106
+Indonesia Vision+,webview://https://hd.rip/?ch=10
 
 
 
