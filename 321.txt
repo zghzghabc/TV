@@ -222,23 +222,70 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 🇭🇰香       港,#genre#
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
-凤凰香港,vwebview://https://hd.rip/?ch=87
-凤凰资讯,vwebview://https://hd.rip/?ch=111
+凤凰香港,webview://https://hd.rip/?ch=87
+凤凰资讯,webview://https://hd.rip/?ch=111
 凤凰中文,webview://https://hd.rip/?ch=112
 无线新闻,webview://https://hd.rip/?ch=90
 无线 TVB Plus,webview://https://hd.rip/?ch=91
 无线翡翠 (香港),webview://https://hd.rip/?ch=141
 无线明珠,webview://https://hd.rip/?ch=110
+无线星河,webview://https://hd.rip/?ch=230
 美亚电影,webview://https://hd.rip/?ch=104
 龙华偶像,webview://https://hd.rip/?ch=98
 天映经典,webview://https://hd.rip/?ch=37
 天映频道,webview://https://hd.rip/?ch=36
+天映频道,webview://https://hd.rip/?ch=352
 好莱坞电影,webview://https://hd.rip/?ch=184
 龙祥时代,webview://https://hd.rip/?ch=32
+龙祥时代,webview://https://hd.rip/?ch=103
+靖天卡通,webview://https://hd.rip/?ch=94
+RTHK31,webview://https://hd.rip/?ch=114
+RTHK32,webview://https://hd.rip/?ch=115
 RTHK3,webview://https://hd.rip/?ch=115
 Astro QJ,webview://https://hd.rip/?ch=113
+Astro QJ,webview://https://hd.rip/?ch=211
+Astro AEC,webview://https://hd.rip/?ch=326
+Astro Boo,webview://https://hd.rip/?ch=215
+Astro Ceria,webview://https://hd.rip/?ch=216
+Astro Citra,webview://https://hd.rip/?ch=217
+Astro Arena,webview://https://hd.rip/?ch=210
+Astro Awani,webview://https://hd.rip/?ch=7
+Asianet,webview://https://hd.rip/?ch=388
+Astro Prima,webview://https://hd.rip/?ch=248
+Astro Daebak,webview://https://hd.rip/?ch=249
+Astro Oasis,webview://https://hd.rip/?ch=221
+Astro Ria,webview://https://hd.rip/?ch=223
+Astro Stadium,webview://https://hd.rip/?ch=329
+Astro SuperSport,webview://https://hd.rip/?ch=212
 Indonesia Music TV,webview://https://hd.rip/?ch=106
 Indonesia Vision+,webview://https://hd.rip/?ch=10
+Indonesia MNC TV,webview://https://hd.rip/?ch=413
+Indonesia Metro TV,webview://https://hd.rip/?ch=392
+Indonesia iNews,webview://https://hd.rip/?ch=353
+Indonesia Galaxy Premium,webview://https://hd.rip/?ch=386
+Indonesia TransTV,webview://https://hd.rip/?ch=383
+Indonesia Trans 7,webview://https://hd.rip/?ch=382
+Indonesia MDTV,webview://https://hd.rip/?ch=373
+Indonesia RCTI,webview://https://hd.rip/?ch=374
+Indonesia Kids TV,webview://https://hd.rip/?ch=243
+Thailand TPTV,webview://https://hd.rip/?ch=408
+Thailand Channel 3,webview://https://hd.rip/?ch=389
+Tnn24,webview://https://hd.rip/?ch=407
+KSA Sunnah,webview://https://hd.rip/?ch=406
+KSA Quran,webview://https://hd.rip/?ch=402
+PPTV Thailand1,webview://https://hd.rip/?ch=401
+News 18 Tamil,webview://https://hd.rip/?ch=398
+Nation,webview://https://hd.rip/?ch=396
+Malaysia TV1,webview://https://hd.rip/?ch=251
+Malaysia TV3,webview://https://hd.rip/?ch=213
+Malaysia TV3,webview://https://hd.rip/?ch=377
+Malaysia Sport Plus,webview://https://hd.rip/?ch=225
+ZooMoo,webview://https://hd.rip/?ch=371
+ZooMoo,webview://https://hd.rip/?ch=236
+国家地理野生动物,webview://https://hd.rip/?ch=395
+Zee TV HD,webview://https://hd.rip/?ch=387
+
+
 
 
 
@@ -277,8 +324,11 @@ Singapore Vasantham,webview://https://hd.rip/?ch=133
 民视台湾,webview://https://hd.rip/?ch=182
 公视,webview://https://hd.rip/?ch=52
 华视,webview://https://hd.rip/?ch=173
+AXN,webview://https://hd.rip/?ch=331
 AXN台湾,webview://https://hd.rip/?ch=8
-Astro Awani,webview://https://hd.rip/?ch=7
+tvN,webview://https://hd.rip/?ch=384
+tvN,webview://https://hd.rip/?ch=229
+tvN Movies,webview://https://hd.rip/?ch=337
 亚洲旅游,webview://https://hd.rip/?ch=6
 动物星球,webview://https://hd.rip/?ch=4
 大爱1,webview://https://hd.rip/?ch=53
@@ -286,7 +336,7 @@ Astro Awani,webview://https://hd.rip/?ch=7
 
 
 
-爱尔达综合,webview://https://hd.rip/?ch=60
+爱尔达综合,ideo://https://hd.rip/?ch=60
 爱尔达1,webview://https://hd.rip/?ch=62
 爱尔达2,webview://https://hd.rip/?ch=61
 爱尔达3,webview://https://hd.rip/?ch=365
@@ -298,7 +348,7 @@ Astro Awani,webview://https://hd.rip/?ch=7
 博斯网球,webview://https://hd.rip/?ch=165
 探索亚洲,webview://https://hd.rip/?ch=58
 
-CN卡通频道,webview://https://hd.rip/?ch=106
+CN卡通频道,webview://https://hd.rip/?ch=105
 
 阿里郎Arirang,webview://https://hd.rip/?ch=155
 八大综合,webview://https://hd.rip/?ch=158
@@ -308,13 +358,33 @@ CN卡通频道,webview://https://hd.rip/?ch=106
 
 
 
+HBO,webview://https://hd.rip/?ch=84
 HBO 强档巨献,webview://https://hd.rip/?ch=85
-HBO,webview://https://hd.rip/?ch=86
+HBO 强档巨献,webview://https://hd.rip/?ch=308
+HBO 原创,webview://https://hd.rip/?ch=86
 HBO 家庭,webview://https://hd.rip/?ch=81
+HBO Malaysia,webview://https://hd.rip/?ch=219
 DAZN 1,webview://https://hd.rip/?ch=82
 BBC Lifestyle,webview://https://hd.rip/?ch=161
 CBS News,webview://https://hd.rip/?ch=169
+CBC Kids,webview://https://hd.rip/?ch=360
 时尚台FTV,webview://https://hd.rip/?ch=73
+CATCHPLAY 电影台,webview://https://hd.rip/?ch=299
+India Star Vijay,webview://https://hd.rip/?ch=376
+TVRI National,webview://https://hd.rip/?ch=380
+Makkal TV,webview://https://hd.rip/?ch=370
+FoxNews,webview://https://hd.rip/?ch=346
+Studio Universal,webview://https://hd.rip/?ch=339
+Global Trekker,webview://https://hd.rip/?ch=336
+HISTORY,webview://https://hd.rip/?ch=334
+Animax,webview://https://hd.rip/?ch=327
+Singapore Suria,webview://https://hd.rip/?ch=250
+Nick Jr,webview://https://hd.rip/?ch=246
+Nickelodeon,webview://https://hd.rip/?ch=245
+KBS WORLD,webview://https://hd.rip/?ch=242
+Cartoon Network,webview://https://hd.rip/?ch=237
+HGTV HD,webview://https://hd.rip/?ch=218
+Bernama TV,webview://https://hd.rip/?ch=214
 
 
 EYETV旅游,webview://https://hd.rip/?ch=71
@@ -335,11 +405,20 @@ EYETV戲劇,webview://https://hd.rip/?ch=72
 八大戏剧,webview://https://hd.rip/?ch=12
 Astro 欢喜台,webview://https://hd.rip/?ch=89
 华艺中文,webview://https://hd.rip/?ch=200
+SkySports F1,webview://https://hd.rip/?ch=350
+SkySports Arena,webview://https://hd.rip/?ch=349
 SkySports Cricket,webview://https://hd.rip/?ch=122
+France 24,webview://https://hd.rip/?ch=181
 TLC,webview://https://hd.rip/?ch=123
 TLC,webview://https://hd.rip/?ch=124
+Malaysia TV2,webview://https://hd.rip/?ch=226
+Malaysia TV3,webview://https://hd.rip/?ch=227
 Malaysia TV8,webview://https://hd.rip/?ch=127
+Malaysia TV9,webview://https://hd.rip/?ch=228
+Malaysia TV9,webview://https://hd.rip/?ch=426
+Discovery频道,webview://https://hd.rip/?ch=54
 Discovery科学,webview://https://hd.rip/?ch=56
+DiscoveryKidsTamil,webview://https://hd.rip/?ch=390
 CNN,webview://https://hd.rip/?ch=46
 CNBC,webview://https://hd.rip/?ch=45
 CNA,webview://https://hd.rip/?ch=44
@@ -352,10 +431,11 @@ Bloomberg,webview://https://hd.rip/?ch=23
 BBC News,webview://https://hd.rip/?ch=20
 BC Earth,webview://https://hd.rip/?ch=18
 ABC News,webview://https://hd.rip/?ch=2
+Love Nature,webview://https://hd.rip/?ch=220
 Love Nature,webview://https://hd.rip/?ch=3
-Malaysia TV9,webview://https://hd.rip/?ch=426
+探索频道 DMAX,webview://https://hd.rip/?ch=55
 探索频道 DMAX,webview://https://hd.rip/?ch=9
-
+探索频道亚洲,webview://https://hd.rip/?ch=58
 
 
 
