@@ -220,8 +220,6 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 
 🇭🇰香       港,#genre#
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
 凤凰香港,video://https://hd.rip/?ch=87
 凤凰资讯,video://https://hd.rip/?ch=111
 凤凰中文,video://https://hd.rip/?ch=112
@@ -229,16 +227,62 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 无线 TVB Plus,video://https://hd.rip/?ch=91
 无线翡翠 (香港),video://https://hd.rip/?ch=141
 无线明珠,video://https://hd.rip/?ch=110
+无线星河,video://https://hd.rip/?ch=230
 美亚电影,video://https://hd.rip/?ch=104
 龙华偶像,video://https://hd.rip/?ch=98
 天映经典,video://https://hd.rip/?ch=37
 天映频道,video://https://hd.rip/?ch=36
+天映频道,video://https://hd.rip/?ch=352
 好莱坞电影,video://https://hd.rip/?ch=184
 龙祥时代,video://https://hd.rip/?ch=32
+龙祥时代,video://https://hd.rip/?ch=103
+靖天卡通,video://https://hd.rip/?ch=94
+RTHK31,video://https://hd.rip/?ch=114
+RTHK32,video://https://hd.rip/?ch=115
 RTHK3,video://https://hd.rip/?ch=115
 Astro QJ,video://https://hd.rip/?ch=113
+Astro QJ,video://https://hd.rip/?ch=211
+Astro AEC,video://https://hd.rip/?ch=326
+Astro Boo,video://https://hd.rip/?ch=215
+Astro Ceria,video://https://hd.rip/?ch=216
+Astro Citra,video://https://hd.rip/?ch=217
+Astro Arena,video://https://hd.rip/?ch=210
+Astro Awani,video://https://hd.rip/?ch=7
+Asianet,video://https://hd.rip/?ch=388
+Astro Prima,video://https://hd.rip/?ch=248
+Astro Daebak,video://https://hd.rip/?ch=249
+Astro Oasis,video://https://hd.rip/?ch=221
+Astro Ria,video://https://hd.rip/?ch=223
+Astro Stadium,video://https://hd.rip/?ch=329
+Astro SuperSport,video://https://hd.rip/?ch=212
 Indonesia Music TV,video://https://hd.rip/?ch=106
 Indonesia Vision+,video://https://hd.rip/?ch=10
+Indonesia MNC TV,video://https://hd.rip/?ch=413
+Indonesia Metro TV,video://https://hd.rip/?ch=392
+Indonesia iNews,video://https://hd.rip/?ch=353
+Indonesia Galaxy Premium,video://https://hd.rip/?ch=386
+Indonesia TransTV,video://https://hd.rip/?ch=383
+Indonesia Trans 7,video://https://hd.rip/?ch=382
+Indonesia MDTV,video://https://hd.rip/?ch=373
+Indonesia RCTI,video://https://hd.rip/?ch=374
+Indonesia Kids TV,video://https://hd.rip/?ch=243
+Thailand TPTV,video://https://hd.rip/?ch=408
+Thailand Channel 3,video://https://hd.rip/?ch=389
+Tnn24,video://https://hd.rip/?ch=407
+KSA Sunnah,video://https://hd.rip/?ch=406
+KSA Quran,video://https://hd.rip/?ch=402
+PPTV Thailand1,video://https://hd.rip/?ch=401
+News 18 Tamil,video://https://hd.rip/?ch=398
+Nation,video://https://hd.rip/?ch=396
+Malaysia TV1,video://https://hd.rip/?ch=251
+Malaysia TV3,video://https://hd.rip/?ch=213
+Malaysia TV3,video://https://hd.rip/?ch=377
+Malaysia Sport Plus,video://https://hd.rip/?ch=225
+ZooMoo,video://https://hd.rip/?ch=371
+ZooMoo,video://https://hd.rip/?ch=236
+国家地理野生动物,video://https://hd.rip/?ch=395
+Zee TV HD,video://https://hd.rip/?ch=387
+
 
 
 
@@ -276,8 +320,11 @@ Singapore Vasantham,video://https://hd.rip/?ch=133
 民视台湾,video://https://hd.rip/?ch=182
 公视,video://https://hd.rip/?ch=52
 华视,video://https://hd.rip/?ch=173
+AXN,video://https://hd.rip/?ch=331
 AXN台湾,video://https://hd.rip/?ch=8
-Astro Awani,video://https://hd.rip/?ch=7
+tvN,video://https://hd.rip/?ch=384
+tvN,video://https://hd.rip/?ch=229
+tvN Movies,video://https://hd.rip/?ch=337
 亚洲旅游,video://https://hd.rip/?ch=6
 动物星球,video://https://hd.rip/?ch=4
 大爱1,video://https://hd.rip/?ch=53
@@ -297,7 +344,7 @@ Astro Awani,video://https://hd.rip/?ch=7
 博斯网球,video://https://hd.rip/?ch=165
 探索亚洲,video://https://hd.rip/?ch=58
 
-CN卡通频道,video://https://hd.rip/?ch=106
+CN卡通频道,video://https://hd.rip/?ch=105
 
 阿里郎Arirang,video://https://hd.rip/?ch=155
 八大综合,video://https://hd.rip/?ch=158
@@ -307,13 +354,33 @@ CN卡通频道,video://https://hd.rip/?ch=106
 
 
 
+HBO,video://https://hd.rip/?ch=84
 HBO 强档巨献,video://https://hd.rip/?ch=85
-HBO,video://https://hd.rip/?ch=86
+HBO 强档巨献,video://https://hd.rip/?ch=308
+HBO 原创,video://https://hd.rip/?ch=86
 HBO 家庭,video://https://hd.rip/?ch=81
+HBO Malaysia,video://https://hd.rip/?ch=219
 DAZN 1,video://https://hd.rip/?ch=82
 BBC Lifestyle,video://https://hd.rip/?ch=161
 CBS News,video://https://hd.rip/?ch=169
+CBC Kids,video://https://hd.rip/?ch=360
 时尚台FTV,video://https://hd.rip/?ch=73
+CATCHPLAY 电影台,video://https://hd.rip/?ch=299
+India Star Vijay,video://https://hd.rip/?ch=376
+TVRI National,video://https://hd.rip/?ch=380
+Makkal TV,video://https://hd.rip/?ch=370
+FoxNews,video://https://hd.rip/?ch=346
+Studio Universal,video://https://hd.rip/?ch=339
+Global Trekker,video://https://hd.rip/?ch=336
+HISTORY,video://https://hd.rip/?ch=334
+Animax,video://https://hd.rip/?ch=327
+Singapore Suria,video://https://hd.rip/?ch=250
+Nick Jr,video://https://hd.rip/?ch=246
+Nickelodeon,video://https://hd.rip/?ch=245
+KBS WORLD,video://https://hd.rip/?ch=242
+Cartoon Network,video://https://hd.rip/?ch=237
+HGTV HD,video://https://hd.rip/?ch=218
+Bernama TV,video://https://hd.rip/?ch=214
 
 
 EYETV旅游,video://https://hd.rip/?ch=71
@@ -334,11 +401,20 @@ EYETV戲劇,video://https://hd.rip/?ch=72
 八大戏剧,video://https://hd.rip/?ch=12
 Astro 欢喜台,video://https://hd.rip/?ch=89
 华艺中文,video://https://hd.rip/?ch=200
+SkySports F1,video://https://hd.rip/?ch=350
+SkySports Arena,video://https://hd.rip/?ch=349
 SkySports Cricket,video://https://hd.rip/?ch=122
+France 24,video://https://hd.rip/?ch=181
 TLC,video://https://hd.rip/?ch=123
 TLC,video://https://hd.rip/?ch=124
+Malaysia TV2,video://https://hd.rip/?ch=226
+Malaysia TV3,video://https://hd.rip/?ch=227
 Malaysia TV8,video://https://hd.rip/?ch=127
+Malaysia TV9,video://https://hd.rip/?ch=228
+Malaysia TV9,video://https://hd.rip/?ch=426
+Discovery频道,video://https://hd.rip/?ch=54
 Discovery科学,video://https://hd.rip/?ch=56
+DiscoveryKidsTamil,video://https://hd.rip/?ch=390
 CNN,video://https://hd.rip/?ch=46
 CNBC,video://https://hd.rip/?ch=45
 CNA,video://https://hd.rip/?ch=44
@@ -351,10 +427,11 @@ Bloomberg,video://https://hd.rip/?ch=23
 BBC News,video://https://hd.rip/?ch=20
 BC Earth,video://https://hd.rip/?ch=18
 ABC News,video://https://hd.rip/?ch=2
+Love Nature,video://https://hd.rip/?ch=220
 Love Nature,video://https://hd.rip/?ch=3
-Malaysia TV9,video://https://hd.rip/?ch=426
+探索频道 DMAX,video://https://hd.rip/?ch=55
 探索频道 DMAX,video://https://hd.rip/?ch=9
-
+探索频道亚洲,video://https://hd.rip/?ch=58
 
 
 
@@ -367,6 +444,7 @@ Viu TV,video://https://hd.rip/?ch=137
 纬来体育,video://https://hd.rip/?ch=136
 龙华戏剧,video://https://hd.rip/?ch=191
 三立戏剧,video://https://hd.rip/?ch=193
+
 
 
 
