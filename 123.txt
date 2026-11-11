@@ -44,7 +44,7 @@ CETV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
 云南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190402
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8$LR•IPV4
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$LR•IPV4
-香港卫视,video://https://www.hkstv.tv/live
+香港卫视,webview://https://www.hkstv.tv/live
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
 北京卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002309
