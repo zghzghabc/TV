@@ -1,4 +1,5 @@
 🇨🇳央       视,#genre#
+CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://www.yangshipin.cn/tv/home?pid=600001801
